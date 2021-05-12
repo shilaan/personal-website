@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+title: "Shilaan Alzahawi"
 education:
   courses:
   - course: MSc in Business Administration
@@ -12,23 +11,23 @@ education:
   - course: LLB in Law
     institution: Erasmus School of Law
     year: 2014
-email: "shilaan@stanford.edu"
-highlight_name: false
+email: shilaan@stanford.edu
+highlight_name: no
 interests:
 - Statistical Inference
 - Experimental Design
 - Open and Reproducible Science
-- Team and Crowdsourced Science
+- Team and Crowd-sourced Science
 organizations:
 - name: Stanford University, Graduate School of Business
-  url: https://www.gsb.stanford.edu/programs/phd/academic-experience/students/shilaan-alzahawi
+  url: https://datascience.stanford.edu/people/shilaan-alzahawi
 role: PhD student in Organizational Behavior
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - display:
-    header: true
+    header: yes
   icon: twitter
   icon_pack: fab
   label: Find me on Twitter
@@ -42,12 +41,12 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/shilaanalzahawi/
-superuser: true
-title: Shilaan Alzahawi 
+superuser: yes
+bio: My research interests include statistics, meta-science, and crowd-sourced science.
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD student in Organizational Behavior at the Stanford Graduate School of Business and an Affiliate at the Stanford Data Science Center for Open and Reproducible Science (SDS-CORES). My research interests include statistics, meta-science, and crowd-sourced science. I am passionate about the development and implementation of tools that increase the rigor, reproducibility, and transparency of scientific research. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My favorite letter in the alphabet is R, and I am weirdly evangelical about it. I co-teach Data & Decisions -- a graduate-level, introductory class on probability and statistics using R -- and I am a technical mentor for the Stanford Data Science for Social Good program. I learn by teaching, so I consider myself very lucky! 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
