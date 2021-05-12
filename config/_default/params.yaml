@@ -14,7 +14,7 @@ font_size: L
 
 site_type: Person
 local_business_type: ''
-org_name: 'Stanford University'
+org_name: ''
 description: 'Shilaan Alzahawi personal website'
 twitter: 'https://twitter.com/shilaan01'
 
@@ -127,7 +127,7 @@ map:
 marketing:
   google_analytics: 'UA-196914537-1'
   google_tag_manager: ''
-  google_site_verification: ''
+  google_site_verification: 'UA-196914537-1'
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:
