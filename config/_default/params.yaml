@@ -135,4 +135,4 @@ cms:
   local_backend: false
 icon:
   pack:
-    ai: false
+    ai: true
