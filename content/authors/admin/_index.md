@@ -3,46 +3,47 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: MSc in Business Administration
+    institution: Rotterdam School of Management
+    year: 2017
+  - course: BSc in Public Administration Science
+    institution: Erasmus School of Social and Behavioral Sciences
+    year: 2014
+  - course: LLB in Law
+    institution: Erasmus School of Law
+    year: 2014
+email: "shilaan@stanford.edu"
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Statistical Inference
+- Experimental Design
+- Open and Reproducible Science
+- Team and Crowdsourced Science
 organizations:
 - name: Stanford University
   url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+role: PhD student in Organizational Behavior
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: shilaan@stanford.edu
 - display:
     header: true
   icon: twitter
   icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  label: Find me on Twitter
+  link: https://twitter.com/shilaan01
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=FNPgIGAAAAAJ&hl=en&oi=sra
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/shilaan
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/shilaanalzahawi/
 superuser: true
-title: Nelson Bighetti
+title: Shilaan Alzahawi 
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
