@@ -20,13 +20,13 @@ interests:
 - Open and Reproducible Science
 - Team and Crowdsourced Science
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Stanford University, Graduate School of Business
+  url: https://www.gsb.stanford.edu/programs/phd/academic-experience/students/shilaan-alzahawi
 role: PhD student in Organizational Behavior
 social:
 - icon: envelope
   icon_pack: fas
-  link: shilaan@stanford.edu
+  link: /#contact
 - display:
     header: true
   icon: twitter
