@@ -47,6 +47,6 @@ bio: My research interests include statistics, meta-science, and crowd-sourced s
 
 I am a PhD student in Organizational Behavior at the Stanford Graduate School of Business and an Affiliate at the Stanford Data Science Center for Open and Reproducible Science (SDS-CORES). My research interests include statistics, meta-science, and crowd-sourced science. I am passionate about the development and implementation of tools that increase the rigor, reproducibility, and transparency of scientific research. 
 
-My favorite letter in the alphabet is R, and I am weirdly evangelical about it. I co-teach Data & Decisions -- a graduate-level, introductory class on probability and statistics using R -- and I'm a technical mentor for the Stanford Data Science for Social Good program. I learn by teaching, so I consider myself very lucky! 
+My favorite letter in the alphabet is R, and I am weirdly evangelical about it. I co-teach Data & Decisions -- a graduate-level, introductory class on probability and statistics using {{< icon name="r-project" pack="fab" >}} -- and I'm a technical mentor for the Stanford Data Science for Social Good program. I learn by teaching, so I consider myself very lucky! 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
