@@ -25,7 +25,7 @@ role: PhD student in Organizational Behavior
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  email: shilaan@stanford.edu 
 - display:
     header: yes
   icon: twitter
