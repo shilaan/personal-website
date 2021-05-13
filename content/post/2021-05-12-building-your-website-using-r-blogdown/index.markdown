@@ -18,7 +18,8 @@ tags:
   - netlify
 subtitle: 'A concise step-by-step guide'
 summary: 'A concise step-by-step guide to building your (academic) website using {blogdown}, GitHub, the Hugo Wowchemy starter-academic theme, and Netlify.'
-authors: []
+authors: 
+  - admin
 lastmod: '2021-05-12T13:46:11-07:00'
 featured: no
 image:
