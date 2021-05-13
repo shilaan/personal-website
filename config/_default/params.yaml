@@ -53,7 +53,7 @@ address_format: en-us
 # Site features
 
 highlight: true
-highlight_style: "atom-one-light"
+highlight_style: '' 
 highlight_languages:
   - r
   - python

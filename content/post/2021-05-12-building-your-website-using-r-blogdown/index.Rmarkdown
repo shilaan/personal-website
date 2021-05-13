@@ -159,7 +159,11 @@ rstudioapi::navigateToFile("netlify.toml")
 
 ![](themes.png)
 
-It's time to customize! Navigate to `config/_default/params.yaml`
+It's time to customize! 
+
+### Theme
+
+Navigate to `config/_default/params.yaml`
 ``` 
 rstudioapi::navigateToFile("config/_default/params.yaml")
 ```
@@ -172,11 +176,18 @@ Pick a built-in Wowchemy color theme [here](https://wowchemy.com/docs/getting-st
 - [x] I adjusted the colors as desired using [HTML color codes](https://htmlcolorcodes.com)
 - [x] I set `theme: shilaan_theme` in `config/_default/params.yaml`
 
-You can also [customize the font set](https://wowchemy.com/docs/getting-started/customization/#custom-font). 
+You can also [customize the font set](https://wowchemy.com/docs/getting-started/customization/#custom-font).
 
 [^2]: Themes are in `themes/github/com/wowchemy/wowchemy-hugo-modules/wowchemy/data`. In this folder, go to `/fonts` for font sets and to `themes` for color themes. 
 
+### Website icon
 
+By default, your website will be published with the Wowchemy icon in the web browser tab. For example: 
+![](example-default-icon.png)
+
+To get [your own Website icon](https://wowchemy.com/docs/getting-started/customization/#website-icon), save a square 512x512 pixel image named `icon.png` in your root `assets/media/` folder. My webpage shoud now show up in your Browser like this: ![](example-adjusted-icon.png)
+
+### Menu 
 
 Customize your menu by opening the file `config/_default/menus.yaml`
 ``` 
