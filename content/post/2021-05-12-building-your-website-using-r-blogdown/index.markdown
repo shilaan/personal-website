@@ -122,14 +122,66 @@ After running these checks, you're ready to commit to GitHub! 🎉
 
 ## Step 5: Deploy site with Netlify
 
-{{< cta cta_text="Log in to Netlify with GitHub" cta_link="https://github.com/login?client_id=0eef2fa971fd9f7d46a2&return_to=%2Flogin%2Foauth%2Fauthorize%3Fclient_id%3D0eef2fa971fd9f7d46a2%26redirect_uri%3Dhttps%253A%252F%252Fapi.netlify.com%252Fauth%252Fdone%26scope%3Duser%253Aemail%26state%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI1NmMzZjE1MDcxZTIwYTE4ZGIwMDAwMGYiLCJleHAiOjE2MjA4ODA5OTYsImxvZ2luIjp0cnVlfQ.5GilGKggLeOdejJI5_1VXSWmofo5n30SKHSX77VWncQ" cta_new_tab="true" >}}
+{{< cta cta_text="Log in to Netlify with GitHub" cta_link="https://github.com/login?client_id=0eef2fa971fd9f7d46a2&return_to=%2Flogin%2Foauth%2Fauthorize%3Fclient_id%3D0eef2fa971fd9f7d46a2%26redirect_uri%3Dhttps%253A%252F%252Fapi.netlify.com%252Fauth%252Fdone%26scope%3Duser%253Aemail%26state%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI1NmMzZjE1MDcxZTIwYTE4ZGIwMDAwMGYiLCJleHAiOjE2MjA4ODA5OTYsImxvZ2luIjp0cnVlfQ.5GilGKggLeOdejJI5_1VXSWmofo5n30SKHSX77VWncQ" cta_new_tab="true" >}} 
 
-To publish your site for the first time, you'll go through the following steps:
-- [ ] Create and edit a `.gitignore` file
-- [ ] Run checks on your website using `blogdown::check_site()`
-- [ ] Commit to GitHub
-- [ ] Log in to Netlify with GitHub
-- [ ] Deploy Site
+After logging in to Netlify through GitHub, you can deploy your website and change the url to your preferred site name, as follows:
+
+- [ ] Select `New site from Git > Continuous Deployment: GitHub`[^1]
+- [ ] Select your website repository
+- [ ] `Deploy Site`
+- [ ] `Settings > Site information > Change site name`
+
+[^1]: Continuous deployment ensures that your website is rebuilt every time you push to GitHub.
+
+Back in RStudio, change the baseurl to your new link in your configuration file: 
+
+```
+install.packages("rstudioapi")
+library(rstudioapi) # to easily navigate to files
+rstudioapi::navigateToFile("config.yaml")
+```
+In `config.yaml`, set the following:  
+```
+baseurl: 'http://your-site-name.netlify.app' # use the link you just created
+```
+
+Before committing, let's again run
+```
+blogdown::check_site() # run checks to resolve critical [TODOs] before commit
+``` 
+
+Among other things, you need to make sure that the version of Hugo that you are using locally with {blogdown} matches the version used by Netlify (which is specified in `netlify.toml`). You will likely need to change your `netlify.toml` file. Remember that you can easily navigate to this file using 
+```
+rstudioapi::navigateToFile("netlify.toml") 
+```
+
+## Step 6: Customize your site with Wowchemy 🎨
+
+![](themes.png)
+
+It's time to customize! Navigate to `config/_default/params.yaml`
+``` 
+rstudioapi::navigateToFile("config/_default/params.yaml")
+```
+
+Pick a built-in Wowchemy color theme [here](https://wowchemy.com/docs/getting-started/customization/#color-themes). I initially chose the `Rose` theme, by setting `theme: rose` in `config/_default/params.yaml`. However, I decided to further customize the color theme using the steps outlined [here](https://wowchemy.com/docs/getting-started/customization/#community-themes):
+
+- [x] I located the `rose.toml` file[^2]  
+- [x] I created a new `data/themes/` folder at the root of my site
+- [x] I copied the `rose.toml` file into `data/themes/shilaan_theme.toml` 
+- [x] I adjusted the colors as desired using [HTML color codes](https://htmlcolorcodes.com)
+- [x] I set `theme: shilaan_theme` in `config/_default/params.yaml`
+
+You can also [customize the font set](https://wowchemy.com/docs/getting-started/customization/#custom-font). 
+
+[^2]: Themes are in `themes/github/com/wowchemy/wowchemy-hugo-modules/wowchemy/data`. In this folder, go to `/fonts` for font sets and to `themes` for color themes. 
+
+
+
+Customize your menu by opening the file `config/_default/menus.yaml`
+``` 
+rstudioapi::navigateToFile("config/_default/menus.yaml")
+```
 
 ## Acknowledgements 
 
