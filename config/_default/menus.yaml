@@ -13,9 +13,9 @@ main:
 #  - name: Projects
 #    url: '#projects'
 #    weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 30
+#  - name: Talks
+#    url: '#talks'
+#    weight: 30
 #  - name: CV
 #    url: '#featured'
 #    weight: 40
