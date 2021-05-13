@@ -35,27 +35,27 @@ projects: []
 
 I finally decided to bite the bullet and create my own website using {{< icon name="r-project" pack="fab" >}} `{blogdown}`. If you're like me, you've already seen many inspiring examples of websites created with blogdown (for example, the webpages of [Julia Silge](https://juliasilge.com/about/), [Silvia Canelón](https://silvia.rbind.io), and  [Iván Mauricio Cely Toro](https://mauriciocely.github.io)), but the process of creating it sounds slightly overwhelming. 😰 
 
-If so, this post is for you: I'll walk you through my step-by-step process of building a site using [blogdown](https://github.com/rstudio/blogdown) and the [Wowchemy](https://wowchemy.com) theme for [hugo](https://gohugo.io) and deploying it with [netlify](https://www.netlify.com). I largely followed the process documented [here](https://alison.rbind.io/post/new-year-new-blogdown/) by Alison Hill. The good news: we'll mostly build and customize the website from the comfort of RStudio. 🥳 
+If so, this post is for you: I'll walk you through my step-by-step process of building a site using [blogdown](https://github.com/rstudio/blogdown) and the [Wowchemy](https://wowchemy.com) theme for [Hugo](https://gohugo.io) and deploying it with [Netlify](https://www.netlify.com). I largely followed the process documented [here](https://alison.rbind.io/post/new-year-new-blogdown/) by Alison Hill. The good news: we'll mostly build and customize the website from the comfort of RStudio. 🥳 
 
 My goal is to write a concise step-by-step guide without having you worry too much about what's happening behind the scenes. For a much more comprehensive guide, please check out [Alison's blog](https://alison.rbind.io/post/new-year-new-blogdown/).
 
 
 ## Prerequisites 
 
-- {{< icon name="download" pack="fas" >}} Install a recent version of [R](https://cran.r-project.org) and [RStudio](https://www.rstudio.com/products/rstudio/download/)
-- {{< icon name="github" pack="fab" >}} [Create](https://github.com/join) a GitHub account
-- {{< icon name="r-project" pack="fab" >}} [Connect](https://happygitwithr.com/connect-intro.html) RStudio to GitHub (preferably with [HTTPS](https://happygitwithr.com/credential-caching.html#credential-caching))
-- {{< icon name="user-plus" pack="fas" >}} [Sign up](https://www.netlify.com) with Netlify using your GitHub account
+{{< icon name="download" pack="fas" >}} Install a recent version of [R](https://cran.r-project.org) and [RStudio](https://www.rstudio.com/products/rstudio/download/)  
+{{< icon name="github" pack="fab" >}} [Create](https://github.com/join) a GitHub account  
+{{< icon name="r-project" pack="fab" >}} [Connect](https://happygitwithr.com/connect-intro.html) RStudio to GitHub (preferably with [HTTPS](https://happygitwithr.com/credential-caching.html#credential-caching))  
+{{< icon name="user-plus" pack="fas" >}} [Sign up](https://www.netlify.com) with Netlify using your GitHub account  
 
 ## Step 1: Create GitHub repository 
 
 {{< cta cta_text="Click to create a new repository" cta_link="https://github.com/new" cta_new_tab="true" >}}
 
 {{% callout note %}}
-Use the following settings:
-- Keep the repository `Public`
-- Add a `README` file
-- Do not add `.gitignore`
+Use the following settings:  
+✓ Keep the repository `Public`  
+✓ Add a `README` file  
+✓ Do not add `.gitignore`  
 {{% /callout %}}
 
 {{< spoiler text="Click to view screenshots for Step 1" >}}
@@ -65,12 +65,12 @@ Use the following settings:
 ## Step 2: Create project with Version Control in RStudio
 
 
-- [ ] Go to `https://github.com/your-username/your-repository` 
-- [ ] Click on the green `Code` button 
-- [ ] Copy the `HTTPS` link to your clipboard
-- [ ] Go to `RStudio > File > New Project >  Version Control > Git`
-- [ ] Copy paste the `HTTPS` link under `Repository URL`.
-- [ ] Click `Create Poject`
+☞︎ Go to `https://github.com/your-username/your-repository`   
+☞︎ Click on the green `Code` button  
+☞ Copy the `HTTPS` link to your clipboard  
+☞ Go to `RStudio > File > New Project >  Version Control > Git`  
+☞︎︎ Copy paste the `HTTPS` link under `Repository URL`  
+☞ Click `Create Poject`  
 
 {{< spoiler text="Click to view screenshots for Step 2" >}}
 ![](https.png)
@@ -90,7 +90,7 @@ new_site(theme = "wowchemy/starter-academic") # create your website!
 You will now be asked if you want to serve and preview the site locally (before publishing). Type `y` in your Console. 
 ![](y.jpg)
 
-A preview will show up in your Viewer Pane. You can click on the  {{< icon name="external-link-alt" pack="fas" >}} "Show in new window" icon  next to the 🧹. 
+A preview will show up in your Viewer Pane. Click on the  {{< icon name="external-link-alt" pack="fas" >}} "Show in new window" icon  next to the 🧹. 
 
 {{< spoiler text="Click to view screenshots for Step 3" >}}
 ![](new-site.png)
@@ -123,11 +123,11 @@ After running these checks, you're ready to commit to GitHub! 🎉
 
 {{< spoiler text="Show me how to commit to GitHub" >}}
 {{% callout note %}}
-- Go to the `Environment` Pane
-- Click on `Commit` under `Git`
-- Check files to `Stage` them
-- Write a commit message 
-- `Commit` and then `Push` {{< icon name="arrow-up" pack="fas" >}} 
+☞ Go to the `Environment` Pane  
+☞ Click on `Commit` under `Git`  
+☞ Check ☑︎ files to `Stage` them  
+☞ Write a commit message   
+☞ `Commit` and then `Push` ⬆︎   
 {{% /callout %}}
 {{< /spoiler >}}
 
@@ -135,14 +135,14 @@ After running these checks, you're ready to commit to GitHub! 🎉
 
 {{< cta cta_text="Log in to Netlify with GitHub" cta_link="https://github.com/login?client_id=0eef2fa971fd9f7d46a2&return_to=%2Flogin%2Foauth%2Fauthorize%3Fclient_id%3D0eef2fa971fd9f7d46a2%26redirect_uri%3Dhttps%253A%252F%252Fapi.netlify.com%252Fauth%252Fdone%26scope%3Duser%253Aemail%26state%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI1NmMzZjE1MDcxZTIwYTE4ZGIwMDAwMGYiLCJleHAiOjE2MjA4ODA5OTYsImxvZ2luIjp0cnVlfQ.5GilGKggLeOdejJI5_1VXSWmofo5n30SKHSX77VWncQ" cta_new_tab="true" >}} 
 
-After logging in to Netlify through GitHub, you can deploy your website and change the url to your preferred site name, as follows:
+After logging in to Netlify through GitHub, you can deploy[^1] your website and change the url to your preferred site name, as follows:
 
-- [ ] Select `New site from Git > Continuous Deployment: GitHub`[^1]
-- [ ] Select your website repository
-- [ ] `Deploy Site`
-- [ ] `Settings > Site information > Change site name`
+☞ Select `New site from Git > Continuous Deployment: GitHub`  
+☞ Select your website repository  
+☞ `Deploy Site`  
+☞ `Settings > Site information > Change site name`  
 
-[^1]: Continuous deployment ensures that your website is rebuilt every time you push to GitHub.
+[^1]: Continuous deployment ensures that your website is rebuilt every time you push⬆︎ to GitHub.
 
 Back in RStudio, change the baseurl to your new link in your configuration file: 
 
@@ -168,11 +168,60 @@ rstudioapi::navigateToFile("netlify.toml")
 
 ## Step 6: Customize your site with Wowchemy 🎨
 
-![](themes.png)
+<center>
 
-It's time to customize! 
+It's time to customize! ❤︎
+
+</center>
+
+![](excited.jpg)
+
+### Personal information
+
+First, we'll edit the `About` information (called a widget) on your homepage.
+
+```
+rstudioapi::navigateToFile("content/authors/admin/_index.md")
+```
+
+☞ Fill in the `_index.md` with your personal information (find mine [here](https://raw.githubusercontent.com/shilaan/personal-website/main/content/authors/admin/_index.md))  
+☞ Personalize with desired [icons](https://wowchemy.com/docs/getting-started/page-builder/#icons) {{< icon name="sci-hub" pack="ai" >}}  
+☞ Add your picture called `avatar.jpg` to the `content/authors/admin/` folder 
+
+To change (or remove) the title of your biography, 
+```
+rstudioapi::navigateToFile("content/home/about.md")
+```
+set `title: My new title`
+
+{{< spoiler text="Show me what a personalized page looks like" >}}
+The `about` page:
+![](about.png)
+The shortened `bio` (appears under your blogposts):
+![](bio.png)
+{{< /spoiler >}}
+
+### Menu 
+
+To get rid of and rename some of the other widgets on your homepage,   
+☞ Go to the `Files` tab on your `Viewer` pane  
+☞ Open the `.md` of a widget you wish to deactivate, e.g. `hero.md` [^2]     
+☞ Write `active:false`  
+☞ Change titles to your liking with `title: My new title`  
+☞ Repeat for all other widges you wish to deactivate or personalize  
+
+I wanted to start with a pretty minimal webpage, so I deactivated all widgets except for `about.md` and `posts.md`. 
+
+{{< spoiler text="Click to view a screenshot for this step" >}}
+![](widgets.png)
+{{< /spoiler >}}
+
+
+[^2]: The `hero` widget is the top blue pane that introduces Hugo Academic Starter
 
 ### Theme
+
+![](themes.png)
 
 Navigate to `config/_default/params.yaml`
 ``` 
@@ -181,22 +230,26 @@ rstudioapi::navigateToFile("config/_default/params.yaml")
 
 Pick a built-in Wowchemy color theme [here](https://wowchemy.com/docs/getting-started/customization/#color-themes). I initially chose the `Rose` theme, by setting `theme: rose` in `config/_default/params.yaml`. However, I decided to further customize the color theme using the steps outlined [here](https://wowchemy.com/docs/getting-started/customization/#community-themes):
 
-- [x] I located the `rose.toml` file[^2]  
-- [x] I created a new `data/themes/` folder at the root of my site
-- [x] I copied the `rose.toml` file into `data/themes/shilaan_theme.toml` 
-- [x] I adjusted the colors as desired using [HTML color codes](https://htmlcolorcodes.com)
-- [x] I set `theme: shilaan_theme` in `config/_default/params.yaml`
+☑︎ I located the `rose.toml` file[^3]  
+☑︎ I created a new `data/themes/` folder at the root of my site   
+☑︎ I copied the `rose.toml` file into `data/themes/shilaan_theme.toml`   
+☑︎ I adjusted the colors as desired using [HTML color codes](https://htmlcolorcodes.com)  
+☑︎ I set `theme: shilaan_theme` in `config/_default/params.yaml`  
 
 You can also [customize the font set](https://wowchemy.com/docs/getting-started/customization/#custom-font).
 
-[^2]: Themes are in `themes/github/com/wowchemy/wowchemy-hugo-modules/wowchemy/data`. In this folder, go to `/fonts` for font sets and to `themes` for color themes. 
+[^3]: Themes are in `themes/github/com/wowchemy/wowchemy-hugo-modules/wowchemy/data`. In this folder, go to `/fonts` for font sets and to `themes` for color themes. 
 
 ### Website icon
 
 By default, your website will be published with the Wowchemy icon in the web browser tab. For example: 
 ![](example-default-icon.png)
 
-To get [your own Website icon](https://wowchemy.com/docs/getting-started/customization/#website-icon), save a square 512x512 pixel image named `icon.png` in your root `assets/media/` folder. My webpage shoud now show up in your Browser like this: ![](example-adjusted-icon.png)
+To get [your own Website icon](https://wowchemy.com/docs/getting-started/customization/#website-icon), save a square 512x512 pixel image named `icon.png` in your root `assets/media/` folder. My webpage should now show up in your Browser like this: ![](example-adjusted-icon.png)
+
+{{< spoiler text="I followed the steps but my Website icon hasn't changed" >}}
+I ran into this issue. Simply clear your website from your browser history. 🧼 I didn't realize the problem was caused by my cache until finding [this issue](https://github.com/wowchemy/wowchemy-hugo-modules/issues/1391#issuecomment-807274736).
+{{< /spoiler >}}
 
 ### Menu 
 
