@@ -219,7 +219,7 @@ rstudioapi::navigateToFile("config/_default/menus.yaml")
 ☞ `name: My new name` to change the name of your menu items  
 ☞ Remove the links to widgets that you deactivated (find mine [here](https://raw.githubusercontent.com/shilaan/personal-website/main/config/_default/menus.yaml))
 
-[^2]: The `hero` widget is the top blue pane that introduces Hugo Academic Starter
+[^2]: The `hero` widget is the top blue pane that introduces *Hugo Academic Starter*
 
 ### Theme
 
@@ -325,6 +325,15 @@ Knit your Rmarkdown. Check out what it looks like, write your own content, and p
 
 ![](minions.png)
 
+<center>
+
+I hope this was helpful! Feel free to [leave a comment {{< icon name="twitter" pack="fab" >}}](https://twitter.com/shilaan01/status/1393071955964665857?s=20)
+
+</center>
+
+  
 ### Acknowledgements 
 
 My workflow, and a large part of the content of this post, is based on [Alison Hill's materials](https://alison.rbind.io/post/new-year-new-blogdown/). In addition, I would not have made this website if it wasn't for Daniël Lakens friendly nudging me (about 5 months ago... it took me a while to accept my fate). Thank you, Alison and Daniël! 🙏
+
+
