@@ -268,7 +268,7 @@ If you really want to keep these files on hand, you can save them as a draft so 
 ```
 rstudioapi::navigateToFile("content/post/getting-started/index.md")
 ```
-Now, set `draft:true` in the front matter. From now on, whenever you run `blogdown::check_site()`, you will be reminded that you have files marked as drafts.  
+Now, set `draft:true` in the front matter. From now on, whenever you run `blogdown::check_site()`, you will be reminded that you have these files marked as drafts.  
 
 We're ready to write!
 
