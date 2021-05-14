@@ -297,14 +297,10 @@ In your `Files` pane, you will now have a folder (under `content/post`) with tod
 Go ahead and open `index.Rmarkdown`. When you knit this[^4], your website will preview in the Viewer pane. Remember that you can click on the  {{< icon name="external-link-alt" pack="fas" >}} "Show in new window" icon  next to the 🧹 to preview your site in a browser window. 
 
 {{% callout warning %}}
-Make sure you edit the `index.Rmarkdown` file, not the `edit.markdown` file. The markdown file is automatically created and updated when you knit your Rmarkdown.
+Make sure you edit the `index.Rmarkdown` file, not the `index.markdown` file. The markdown file is automatically created and updated when you knit your Rmarkdown.
 {{% /callout %}}
 
-
-
 [^4]: Use either the Knit button, `command + shift + k` on Mac, or `control + shift + k` on Windows/Linux. 
-
-
 
 ## Acknowledgements 
 
