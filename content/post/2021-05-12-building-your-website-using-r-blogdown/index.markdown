@@ -90,7 +90,7 @@ new_site(theme = "wowchemy/starter-academic") # create your website!
 You will now be asked if you want to serve and preview the site locally (before publishing). Type `y` in your Console. 
 ![](y.jpg)
 
-A preview will show up in your Viewer Pane. Click on the  {{< icon name="external-link-alt" pack="fas" >}} "Show in new window" icon  next to the 🧹. 
+A preview will show up in your Viewer Pane. Click on the  {{< icon name="external-link-alt" pack="fas" >}} "Show in new window" icon  next to the 🧹 to preview your site in a browser window. 
 
 {{< spoiler text="Click to view screenshots for Step 3" >}}
 ![](new-site.png)
@@ -188,7 +188,7 @@ rstudioapi::navigateToFile("content/authors/admin/_index.md")
 ☞ Personalize with desired [icons](https://wowchemy.com/docs/getting-started/page-builder/#icons) {{< icon name="sci-hub" pack="ai" >}}  
 ☞ Add your picture called `avatar.jpg` to the `content/authors/admin/` folder 
 
-To change (or remove) the title of your biography, 
+To change (or remove) the title of your `About` widget, 
 ```
 rstudioapi::navigateToFile("content/home/about.md")
 ```
@@ -201,9 +201,9 @@ The shortened `bio` (appears under your blogposts):
 ![](bio.png)
 {{< /spoiler >}}
 
-### Menu 
+### Widgets 
 
-To get rid of and rename some of the other widgets on your homepage,   
+To get rid of and rename the other widgets on your homepage,   
 ☞ Go to the `Files` tab on your `Viewer` pane  
 ☞ Open the `.md` of a widget you wish to deactivate, e.g. `hero.md` [^2]     
 ☞ Write `active:false`  
@@ -216,6 +216,18 @@ I wanted to start with a pretty minimal webpage, so I deactivated all widgets ex
 ![](widgets.png)
 {{< /spoiler >}}
 
+### Menu 
+
+Now that you've deactivated some widgets, you'll no longer want to link to them in your main menu (the navigation bar at the top). 
+
+Customize your main menu in `config/_default/menus.yaml`
+
+``` 
+rstudioapi::navigateToFile("config/_default/menus.yaml")
+```
+
+☞ `name: My new name` to change the name of your menu items  
+☞ Remove the links to widgets that you deactivated (find mine [here](https://raw.githubusercontent.com/shilaan/personal-website/main/config/_default/menus.yaml))
 
 [^2]: The `hero` widget is the top blue pane that introduces Hugo Academic Starter
 
@@ -223,12 +235,11 @@ I wanted to start with a pretty minimal webpage, so I deactivated all widgets ex
 
 ![](themes.png)
 
-Navigate to `config/_default/params.yaml`
-``` 
-rstudioapi::navigateToFile("config/_default/params.yaml")
-```
+☞ Pick a built-in Wowchemy color theme from the ones above.  
+☞ `rstudioapi::navigateToFile("config/_default/params.yaml")`  
+☞ Set `theme: rose` (or whichever your chosen theme is; no capitalization)  
 
-Pick a built-in Wowchemy color theme [here](https://wowchemy.com/docs/getting-started/customization/#color-themes). I initially chose the `Rose` theme, by setting `theme: rose` in `config/_default/params.yaml`. However, I decided to further customize the color theme using the steps outlined [here](https://wowchemy.com/docs/getting-started/customization/#community-themes):
+I initially chose the `Rose` theme, but decided I wanted to further customize the color theme using the steps outlined [here](https://wowchemy.com/docs/getting-started/customization/#community-themes):
 
 ☑︎ I located the `rose.toml` file[^3]  
 ☑︎ I created a new `data/themes/` folder at the root of my site   
@@ -239,6 +250,11 @@ Pick a built-in Wowchemy color theme [here](https://wowchemy.com/docs/getting-st
 You can also [customize the font set](https://wowchemy.com/docs/getting-started/customization/#custom-font).
 
 [^3]: Themes are in `themes/github/com/wowchemy/wowchemy-hugo-modules/wowchemy/data`. In this folder, go to `/fonts` for font sets and to `themes` for color themes. 
+
+{{< spoiler text="Show example GitHub files for creating my own theme" >}}
+{{< icon name="github" pack="fab" >}} [data/themes/shilaan_theme.toml](https://github.com/shilaan/personal-website/blob/main/data/themes/shilaan_theme.toml)   
+{{< icon name="github" pack="fab" >}} [config/_default/params.yaml](https://github.com/shilaan/personal-website/blob/main/config/_default/params.yaml)   
+{{< /spoiler >}}
 
 ### Website icon
 
@@ -251,12 +267,44 @@ To get [your own Website icon](https://wowchemy.com/docs/getting-started/customi
 I ran into this issue. Simply clear your website from your browser history. 🧼 I didn't realize the problem was caused by my cache until finding [this issue](https://github.com/wowchemy/wowchemy-hugo-modules/issues/1391#issuecomment-807274736).
 {{< /spoiler >}}
 
-### Menu 
+## Step 7: Write your first post ✍
 
-Customize your menu by opening the file `config/_default/menus.yaml`
-``` 
-rstudioapi::navigateToFile("config/_default/menus.yaml")
+To remove the example posts currently populating your website (e.g., *Welcome to Wowchemy, the website builder for Hugo*), navigate to `content/post` and remove the folders associated with them (in this case, the `getting-started` folder).  
+
+If you find these posts helpful, you can always take another look at them on the [Demo site](https://academic-demo.netlify.app) and find their underlying files at  `themes/starter-academic/exampleSite/content/post`.  
+
+If you really want to keep these files on hand, you can save them as a draft so that they don't publish on your site anymore. You will still see them in your preview when you serve your site locally. For example:
+
 ```
+rstudioapi::navigateToFile("content/post/getting-started/index.md")
+```
+Now, set `draft:true` in the front matter. From now on, whenever you run `blogdown::check_site()`, you will be reminded that you have files marked as drafts.  
+
+We're ready to write!
+
+![](ready.jpg)
+
+In your console, type 
+
+```
+blogdown::new_post(title = "My first post",
+                   ext = '.Rmarkdown',
+                   subdir = "post")
+```
+
+In your `Files` pane, you will now have a folder (under `content/post`) with today's date and the title of your post. The crucial file is `index.Rmarkdown`: this is where you will write your post. 
+
+Go ahead and open `index.Rmarkdown`. When you knit this[^4], your website will preview in the Viewer pane. Remember that you can click on the  {{< icon name="external-link-alt" pack="fas" >}} "Show in new window" icon  next to the 🧹 to preview your site in a browser window. 
+
+{{% callout warning %}}
+Make sure you edit the `index.Rmarkdown` file, not the `edit.markdown` file. The markdown file is automatically created and updated when you knit your Rmarkdown.
+{{% /callout %}}
+
+
+
+[^4]: Use either the Knit button, `command + shift + k` on Mac, or `control + shift + k` on Windows/Linux. 
+
+
 
 ## Acknowledgements 
 
