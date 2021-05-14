@@ -4,18 +4,9 @@ author: Shilaan Alzahawi
 date: '2021-05-12'
 draft: no
 slug: building-your-website-using-r-blogdown
-categories: 
-  - blogdown
+categories:
   - rmarkdown
   - github
-  - hugo
-  - netlify
-tags:
-  - blogdown
-  - rmarkdown
-  - github
-  - hugo
-  - netlify
 subtitle: 'A concise step-by-step guide'
 summary: 'A concise step-by-step guide to building your (academic) website using {blogdown}, GitHub, the Hugo Wowchemy starter-academic theme, and Netlify.'
 authors: 
