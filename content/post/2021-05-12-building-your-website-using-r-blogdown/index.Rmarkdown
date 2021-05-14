@@ -7,6 +7,7 @@ slug: building-your-website-using-r-blogdown
 categories:
   - rmarkdown
   - github
+  - tidyverse
 subtitle: 'A concise step-by-step guide'
 summary: 'A concise step-by-step guide to building your (academic) website using {blogdown}, GitHub, the Hugo Wowchemy starter-academic theme, and Netlify.'
 authors: 
@@ -217,7 +218,7 @@ rstudioapi::navigateToFile("config/_default/menus.yaml")
 ```
 
 ☞ `name: My new name` to change the name of your menu items  
-☞ Remove the links to widgets that you deactivated (find mine [here](https://raw.githubusercontent.com/shilaan/personal-website/main/config/_default/menus.yaml))
+☞ Remove the links to widgets that you deactivated ([find my `menus.yaml` here](https://raw.githubusercontent.com/shilaan/personal-website/main/config/_default/menus.yaml))
 
 [^2]: The `hero` widget is the top blue pane that introduces *Hugo Academic Starter*
 
