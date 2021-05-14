@@ -55,7 +55,6 @@ Use the following settings:
 
 ## Step 2: Create project with Version Control in RStudio
 
-
 ☞︎ Go to `https://github.com/your-username/your-repository`   
 ☞︎ Click on the green `Code` button  
 ☞ Copy the `HTTPS` link to your clipboard  
@@ -335,6 +334,4 @@ I hope this was helpful! Feel free to [leave a comment {{< icon name="twitter" p
   
 ### Acknowledgements 
 
-My workflow, and a large part of the content of this post, is based on [Alison Hill's materials](https://alison.rbind.io/post/new-year-new-blogdown/). In addition, I would not have made this website if it wasn't for Daniël Lakens friendly nudging me (about 5 months ago... it took me a while to accept my fate). Thank you, Alison and Daniël! 🙏
-
-
+My workflow, and a large part of the content of this post, is based on [Alison Hill's materials](https://alison.rbind.io/post/new-year-new-blogdown/). In addition, I would not have made this website if it wasn't for Daniël Lakens friendly nudging me (about 5 months ago... it took me a while to accept my fate). Thank you, Alison and Daniël! 🙏  
