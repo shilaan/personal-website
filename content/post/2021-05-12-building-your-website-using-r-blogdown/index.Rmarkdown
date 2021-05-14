@@ -38,6 +38,13 @@ My goal is to write a concise step-by-step guide without having you worry too mu
 {{< icon name="r-project" pack="fab" >}} [Connect](https://happygitwithr.com/connect-intro.html) RStudio to GitHub (preferably with [HTTPS](https://happygitwithr.com/credential-caching.html#credential-caching))  
 {{< icon name="user-plus" pack="fas" >}} [Sign up](https://www.netlify.com) with Netlify using your GitHub account  
 
+### Resources for getting started with GitHub {{< icon name="github" pack="fab" >}}
+⚒︎ [Happy Git and GitHub for the useR](https://happygitwithr.com/github-acct.html)  
+⚒︎ [The Turing Way Guide for Collaboration](https://the-turing-way.netlify.app/collaboration/github-novice.html#)   
+⚒︎ [Start Your Lab guide](https://www.startyourlab.com/docs/github-accounts/) [^5] 
+
+[^5]: Thank you to [Ari Dyckovsky](https://www.aridyckovsky.com) for [suggesting this addition{{< icon name="twitter" pack="fab" >}}](https://twitter.com/adyckovsky/status/1393346563481735168?s=20) to the post 
+
 ## Step 1: Create GitHub repository 
 
 {{< cta cta_text="Click to create a new repository" cta_link="https://github.com/new" cta_new_tab="true" >}}
