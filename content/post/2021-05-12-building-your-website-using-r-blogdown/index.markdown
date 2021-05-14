@@ -32,7 +32,6 @@ projects: []
 
 {{< toc >}} 
 
-
 I finally decided to bite the bullet and create my own website using {{< icon name="r-project" pack="fab" >}} `{blogdown}`. If you're like me, you've already seen many inspiring examples of websites created with blogdown (for example, the webpages of [Julia Silge](https://juliasilge.com/about/), [Silvia Canelón](https://silvia.rbind.io), and  [Iván Mauricio Cely Toro](https://mauriciocely.github.io)), but the process of creating it sounds slightly overwhelming. 😰 
 
 If so, this post is for you: I'll walk you through my step-by-step process of building a site using [blogdown](https://github.com/rstudio/blogdown) and the [Wowchemy](https://wowchemy.com) theme for [Hugo](https://gohugo.io) and deploying it with [Netlify](https://www.netlify.com). I largely followed the process documented [here](https://alison.rbind.io/post/new-year-new-blogdown/) by Alison Hill. The good news: we'll mostly build and customize the website from the comfort of RStudio. 🥳 
@@ -97,7 +96,7 @@ A preview will show up in your Viewer Pane. Click on the  {{< icon name="externa
 ![](viewer-in-new-window.png)
 {{< /spoiler >}}
 
-## Step 4: Push to GitHub 
+## Step 4: Push ⬆︎ to GitHub 
 
 In the console, run the following line of code to create a `.gitignore` file:
 ```
@@ -113,13 +112,13 @@ Add the following lines to the `.gitignore` file:
 Thumbs.db
 ```
 
-Before we make our first commit, we use blogdown to check our all our files:
+Before we make our first commit, we use blogdown to check all our files:
 ```
 blogdown::check_site()
 ```
-This will give you a number of `[TODO]` items, like adding `public` and `resources` to the `.gitignore` file, which you can do safely. Don't worry about content flagged as `draft` or files with a future publish date. 
+This will give you a number of `[TODO]` items, like adding `public` and `resources` to the `.gitignore` file, which you can do safely. Don't worry about content flagged as `draft` or files with a future publish date. If you have a `[TODO]` item related to your `.Rprofile`, run `blogdown::config_Rprofile()`.
 
-After running these checks, you're ready to commit to GitHub! 🎉  
+After running these checks, you're ready to commit to GitHub! 🎉 
 
 {{< spoiler text="Show me how to commit to GitHub" >}}
 {{% callout note %}}
@@ -302,6 +301,39 @@ Make sure you edit the `index.Rmarkdown` file, not the `index.markdown` file. Th
 
 [^4]: Use either the Knit button, `command + shift + k` on Mac, or `control + shift + k` on Windows/Linux. 
 
-## Acknowledgements 
+Go ahead and add an R code chunk:
 
-My workflow, and a large part of the content of this post, is based on [Alison Hill's materials](https://alison.rbind.io/post/new-year-new-blogdown/). In addition, I would not have made this website if it wasn't for Daniël Lakens friendly urging me (about 5 months ago... it took me a while to accept my fate). Thank you, Alison and Daniël! 🙏
+````
+```{r echo=FALSE}
+library(ggplot2)
+
+x = seq(-1, 1, .01)
+y = sin(x^3)/(1 + x^6)
+
+ggplot(mapping = aes(x = x, 
+                     y = y)) +
+geom_line() +
+geom_ribbon(aes(ymin = 0, 
+                ymax = y), 
+            fill = "pink", 
+            alpha = 0.5) +
+theme_void() 
+```
+````
+
+Knit your Rmarkdown. Check out what it looks like, write your own content, and push⬆︎ to GitHub when you're ready. Don't forget about the option to run `blogdown::check_site()`.
+
+{{< spoiler text="Show me screenshots of this step" >}}
+![](index.png)
+![](files.png)
+![](first-post.png)
+{{< /spoiler >}}
+
+
+## We're done! 💪
+
+![](minions.png)
+
+### Acknowledgements 
+
+My workflow, and a large part of the content of this post, is based on [Alison Hill's materials](https://alison.rbind.io/post/new-year-new-blogdown/). In addition, I would not have made this website if it wasn't for Daniël Lakens friendly nudging me (about 5 months ago... it took me a while to accept my fate). Thank you, Alison and Daniël! 🙏

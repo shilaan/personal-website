@@ -1,0 +1,37 @@
+---
+title: My first post
+author: Shilaan Alzahawi
+draft: yes
+date: '2021-05-13'
+slug: my-first-post
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-05-13T17:43:16-07:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+```{r echo = FALSE}
+library(ggplot2)
+
+x = seq(-1, 1, .01)
+y = sin(x^3)/(1 + x^6)
+
+ggplot(mapping = aes(x = x, 
+                     y = y)) +
+geom_line() +
+geom_ribbon(aes(ymin = 0, 
+                ymax = y), 
+            fill = "pink", 
+            alpha = 0.5) +
+theme_void() 
+```
+
+
