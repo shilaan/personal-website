@@ -155,7 +155,7 @@ baseurl: 'http://your-site-name.netlify.app' # use the link you just created
 
 Before committing, let's again run
 ```
-blogdown::check_site() # run checks to resolve critical [TODOs] before commit
+blogdown::check_site() # checks to resolve critical [TODOs] before commit
 ``` 
 
 Among other things, you need to make sure that the version of Hugo that you are using locally with {blogdown} matches the version used by Netlify (which is specified in `netlify.toml`). You will likely need to change your `netlify.toml` file. Remember that you can easily navigate to this file using 
@@ -224,7 +224,7 @@ rstudioapi::navigateToFile("config/_default/menus.yaml")
 ```
 
 ☞ `name: My new name` to change the name of your menu items  
-☞ Remove the links to widgets that you deactivated ([find my `menus.yaml` here](https://raw.githubusercontent.com/shilaan/personal-website/main/config/_default/menus.yaml))
+☞ Remove the links to widgets that you deactivated ([here's my `menus.yaml`](https://raw.githubusercontent.com/shilaan/personal-website/main/config/_default/menus.yaml))
 
 [^2]: The `hero` widget is the top blue pane that introduces *Hugo Academic Starter*
 
@@ -232,7 +232,7 @@ rstudioapi::navigateToFile("config/_default/menus.yaml")
 
 ![](themes.png)
 
-☞ Pick a built-in Wowchemy color theme from the ones above.  
+☞ Pick a built-in Wowchemy color theme   
 ☞ `rstudioapi::navigateToFile("config/_default/params.yaml")`  
 ☞ Set `theme: rose` (or whichever your chosen theme is; no capitalization)  
 

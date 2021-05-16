@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Minimal"
+# I copied the mininal theme but used the header font (Lora) from Rose
+# Optional Google font URL
+google_fonts = "family=Lora:wght@400;700&family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"
+
+# Font families
+heading_font = "Lora"
+body_font = "Roboto"
+nav_font = "Roboto"
+mono_font = "Roboto Mono"
