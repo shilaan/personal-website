@@ -25,3 +25,8 @@
   to = "https://shilaan.rbind.io/:splat"
   status = 301
   force = true
+  
+  from = "http://shilaan.rbind.io/*"
+  to = "https://shilaan.rbind.io/:splat"
+  status = 301
+  force = true
