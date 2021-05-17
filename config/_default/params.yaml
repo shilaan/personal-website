@@ -6,8 +6,8 @@
 # Appearance
 
 theme: shilaan_theme
-day_night: true
-font: 'rose'
+day_night: false
+font: 'shilaan_font'
 font_size: L
 
 # SEO
@@ -52,8 +52,8 @@ address_format: en-us
 
 # Site features
 
-highlight: true
-highlight_style: '' 
+highlight: false
+highlight_style: 'mono-blue' 
 highlight_languages:
   - r
   - python
