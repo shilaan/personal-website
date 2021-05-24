@@ -3,7 +3,8 @@ title: High Performance Computing at Stanford
 author: Shilaan Alzahawi
 date: '2021-05-23'
 slug: high-performance-computing-at-stanford
-categories: []
+categories: 
+  - computing
 tags: []
 subtitle: 'A step-by-step guide to using ClusterJob and Sherlock to run massive computational experiments at Stanford'
 summary: 'A step-by-step guide to running massive computational experiments using ClusterJob and Sherlock, aimed at the Stanford community.'
