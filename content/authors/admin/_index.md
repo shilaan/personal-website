@@ -52,6 +52,7 @@ social:
   link: https://www.instagram.com/shilaan01/ 
 superuser: yes
 bio: My research interests include statistics, meta-science, and crowd-sourced science
+greeting: alzahawi::shilaan()
 ---
 
 I am a PhD student in Organizational Behavior at the Stanford Graduate School of Business and an Affiliate at the Stanford Data Science Center for Open and Reproducible Science (SDS-CORES). My research interests include statistics, meta-science, and crowd-sourced science. I am passionate about the development and implementation of tools that increase the rigor, reproducibility, and transparency of scientific research. 
