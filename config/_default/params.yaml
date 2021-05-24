@@ -52,8 +52,8 @@ address_format: en-us
 
 # Site features
 
-highlight: false
-highlight_style: 'mono-blue' 
+highlight: true
+highlight_style: '' 
 highlight_languages:
   - r
   - python

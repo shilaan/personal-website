@@ -19,9 +19,9 @@ main:
 #  - name: CV
 #    url: '#featured'
 #    weight: 40
-#  - name: Courses
-#    url: courses/
-#    weight: 60
+#  - name: File Drawer
+#    url: filedrawer/
+#    weight: 30 # keep as draft before committing
 #  - name: Contact
 #    url: '#contact'
 #    weight: 70
