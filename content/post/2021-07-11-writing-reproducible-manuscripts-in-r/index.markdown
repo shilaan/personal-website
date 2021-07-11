@@ -77,7 +77,7 @@ Feel free to [{{< icon name="twitter" pack="fab" >}}leave a comment or a questio
 
 ### Acknowledgements
 
-❤︎ Slides created with the R package [xaringan](https://github.com/yihui/xaringan)  
+❤︎ Slides created with the R packages [xaringan](https://github.com/yihui/xaringan) and [xaringanExtra](https://github.com/gadenbuie/xaringanExtra)  
 ❤︎ papaja created by [Frederik Aust](http://frederikaust.com)  
 ❤︎ GIFs created by [Shannon Pileggi](https://www.pipinghotdata.com/posts/2020-09-07-introducing-the-rstudio-ide-and-r-markdown/)  
 ❤︎ Artwork created by [Allison Horst](https://github.com/allisonhorst/stats-illustrations)  
