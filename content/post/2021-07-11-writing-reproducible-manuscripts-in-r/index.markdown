@@ -68,7 +68,7 @@ You can find a list of papers written with papaja [here](https://github.com/crsh
 
 If you want to learn more, you can [find the slides here {{< icon name="images" pack="far" >}}](https://shilaan-apa.netlify.app) or browse them through below using the ⇤left and right⇥ arrow.  
 
-Click **o** (the letter **o**, for **o**verview) to see an overview of the slides and jump to any one of them. 
+Click **o** (the letter **o**, for **o**verview) to see an overview of the slides and jump to any one of them. Note that the slides may take a minute to load.  
 
 <iframe style="background-color: #FFFFFF" height="540" width="100%" frameborder="no" src="https://shilaan-apa.netlify.app/#1"> </iframe>
 
