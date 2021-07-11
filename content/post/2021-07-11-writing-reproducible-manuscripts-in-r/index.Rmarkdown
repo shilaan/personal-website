@@ -35,7 +35,7 @@ I recently gave a talk on writing reproducible manuscripts using R Markdown and 
   
 ### A reproducible workflow 
 
-In the workshop, I go through methods that keep you from manually transcribing and/or copy pasting tables, figures, and statistical output over and over again.   
+In the workshop, I go through methods that keep you from manually transcribing and/or copy pasting tables, figures, statistical output, and citations over and over again.   
 
 Perhaps my favorite introduction to the idea of a [**reproducible workflow**](https://www.youtube.com/watch?v=s3JldKoA0zw) (and the horrors of a non-reproducible workflow) is given in this short YouTube video: 
 
@@ -66,11 +66,13 @@ You can find a list of papers written with papaja [here](https://github.com/crsh
 ## Materials
 
 
-If you want to learn more, you can [find the slides here {{< icon name="images" pack="far" >}}](https://shilaan-apa.netlify.app) or browse them through below using the ⇤left and right⇥ arrow.
+If you want to learn more, you can [find the slides here {{< icon name="images" pack="far" >}}](https://shilaan-apa.netlify.app) or browse them through below using the ⇤left and right⇥ arrow.  
+
+Click **o** (the letter **o**, for **o**verview) to see an overview of the slides and jump to any one of them. 
 
 <iframe style="background-color: #FFFFFF" height="540" width="100%" frameborder="no" src="https://shilaan-apa.netlify.app/#1"> </iframe>
 
-Feel free to [{{< icon name="twitter" pack="fab" >}} leave a comment or a question](https://twitter.com/shilaan01/status/1413946789699325953)
+Feel free to [{{< icon name="twitter" pack="fab" >}}leave a comment or a question](https://twitter.com/shilaan01/status/1413946789699325953)
 
 
 ### Acknowledgements
