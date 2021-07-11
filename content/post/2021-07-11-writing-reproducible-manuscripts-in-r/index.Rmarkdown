@@ -20,18 +20,6 @@ image:
 projects: []
 ---
 
-```{r setup, echo=FALSE}
-htmltools::tagList(
-  xaringanExtra::use_clipboard(
-    button_text = "<i class=\"fa fa-clipboard\"></i> Copy Code",
-    success_text = "<i class=\"fa fa-check\" style=\"color: #90BE6D\"></i> Copied!",
-  ),
-  rmarkdown::html_dependency_font_awesome()
-)
-
-library(xaringanExtra)
-```
-
 {{< toc >}} 
 
 ## Motivation
@@ -78,12 +66,9 @@ You can find a list of papers written with papaja [here](https://github.com/crsh
 ## Materials
 
 
-If you want to learn more, you can [find the slides here {{< icon name="images" pack="far" >}}](https://shilaan-apa.netlify.app) or browse them through below.  
+If you want to learn more, you can [find the slides here {{< icon name="images" pack="far" >}}](https://shilaan-apa.netlify.app).  
 
-```{r, echo=FALSE, eval = TRUE}
-xaringanExtra::embed_xaringan("https://shilaan-apa.netlify.app", 
-                              ratio = "4:3")
-```
+
 
 ### Acknowledgements
 
