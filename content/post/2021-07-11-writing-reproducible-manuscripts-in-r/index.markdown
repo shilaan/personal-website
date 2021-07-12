@@ -68,7 +68,7 @@ You can find a list of papers written with papaja [here](https://github.com/crsh
 
 If you want to learn more, you can [find the slides here {{< icon name="images" pack="far" >}}](https://shilaan-apa.netlify.app).  
 
-If you have trouble loading the slides you can browse through (and save) a static version of the slides below.   
+If you have trouble loading the slides, you can browse through (and save) a static version of the slides below.   
 
 💡 Pro tip: if you are on a mobile device, click on `75%` in the toolbar to adjust the size of the slides to `Zoom to: Page Width`.
 
