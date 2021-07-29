@@ -74,6 +74,8 @@ If you have trouble loading the slides, you can browse through (and save) a stat
 
 <iframe src="https://onedrive.live.com/embed?cid=9D05BA28CB0393F3&resid=9D05BA28CB0393F3%21711&authkey=APVG1vgy5PxC238&em=2" width="100%" height="540" frameborder="0" scrolling="no"></iframe>
 
+If you'd like an example manuscript to work with, I've uploaded some materials to [this OSF folder](https://osf.io/a8gqn/?view_only=a3ea3f76f667482bbc5a2d8a8ddc2aaf).  
+
 Feel free to [{{< icon name="twitter" pack="fab" >}}leave a comment or a question](https://twitter.com/shilaan01/status/1413946789699325953)
 
 ### Acknowledgements
