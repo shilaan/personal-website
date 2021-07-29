@@ -114,10 +114,12 @@ df_2x3 <- data_2x2(
 
 ## Step 4: Make it rain! 🌧  
 
+Finally, we'll use the `raincloud_2x3_repmes()` function to create our 2x3 raincloud. 
+
 ```{r}
 colors <- rep(c("dodgerblue", "darkorange"), 3) #choose colors 
 
-raincloud_2x3_horizontal <- raincloud_2x3_repmes(
+raincloud_2x3_repmes(
   data = df_2x3,
   colors = colors,
   fills = colors,
@@ -131,8 +133,7 @@ raincloud_2x3_horizontal <- raincloud_2x3_repmes(
     labels = rep("", 3)) +
   ylab("Rated Beliefs") +
   
-  annotate(geom = "text", label = "Single-Analyst",
-           x = 1.5, y = 42) + 
+  annotate(geom = "text", label = "Single-Analyst", x = 1.5, y = 42) + 
   annotate(geom = "text", label = "Multi-Analyst: Consistent", 
            x = 2.5, y = 38) + 
   annotate(geom = "text", label = "Multi-Analyst: Inconsistent",
@@ -147,8 +148,6 @@ raincloud_2x3_horizontal <- raincloud_2x3_repmes(
   theme(axis.ticks.y = element_blank(),
         axis.text = element_text(size = 9),
         axis.title.y = element_blank())
-
-raincloud_2x3_horizontal
 ```
 
 ```{r, include = FALSE}
