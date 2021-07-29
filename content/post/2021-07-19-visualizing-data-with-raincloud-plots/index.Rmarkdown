@@ -86,10 +86,10 @@ For the remaining group (the *inconsistent multi-analyst* condition), we'll draw
 
 ```{r}
 set.seed(3)
-prior_beliefs <- replicate(n = 3, rnorm(n = 500, mean = 65, sd = 5))
-final_beliefs_single <- rnorm(n = 500, mean = 72, sd = 6)
-final_beliefs_multi_consistent <- rnorm(n = 500, mean = 75, sd = 7)
-final_beliefs_multi_inconsistent <- rnorm(n = 500, mean = 55, sd = 9)
+prior <- replicate(n = 3, rnorm(n = 500, mean = 65, sd = 5))
+final_single <- rnorm(n = 500, mean = 72, sd = 6)
+final_multi_consistent <- rnorm(n = 500, mean = 75, sd = 7)
+final_multi_inconsistent <- rnorm(n = 500, mean = 55, sd = 9)
 ```
 
 ## Step 3: Initialize the data-format
@@ -101,12 +101,12 @@ The {raincloudplot} function to set up the desired data format for a 2 x 3 rainc
 
 ```{r}
 df_2x3 <- data_2x2(
-  array_1 = prior_beliefs[,1],
-  array_2 = final_beliefs_single,
-  array_3 = prior_beliefs[,2],
-  array_4 = final_beliefs_multi_consistent,
-  array_5 = prior_beliefs[,3],
-  array_6 = final_beliefs_multi_inconsistent,
+  array_1 = prior[,1],
+  array_2 = final_single,
+  array_3 = prior[,2],
+  array_4 = final_multi_consistent,
+  array_5 = prior[,3],
+  array_6 = final_multi_inconsistent,
   labels = (c('Prior Beliefs','Final Beliefs')),
   jit_distance = .09,
   jit_seed = 321) 
@@ -133,16 +133,26 @@ raincloud_2x3_repmes(
     labels = rep("", 3)) +
   ylab("Rated Beliefs") +
   
-  annotate(geom = "text", label = "Single-Analyst", x = 1.5, y = 42) + 
-  annotate(geom = "text", label = "Multi-Analyst: Consistent", 
+  annotate(geom = "text", 
+           label = "Single-Analyst", 
+           x = 1.5, y = 42) + 
+  annotate(geom = "text", 
+           label = "Multi-Analyst: Consistent", 
            x = 2.5, y = 38) + 
-  annotate(geom = "text", label = "Multi-Analyst: Inconsistent",
+  annotate(geom = "text", 
+           label = "Multi-Analyst: Inconsistent",
            x = 3.9, y = 38) + 
-  annotate(geom = "text", label = "Prior Beliefs", 
-           x = 4.2, y = 55, size = 5, color = "dodgerblue") + 
-  annotate(geom = "text", label = "vs.", x = 4.2, y = 66, size = 5) + 
-  annotate(geom = "text", label = "Final Beliefs", 
-           x = 4.2, y = 77, size = 5, color = "darkorange") + 
+  annotate(geom = "text", 
+           label = "Prior Beliefs", 
+           x = 4.2, y = 55, size = 5, 
+           color = "dodgerblue") + 
+  annotate(geom = "text", 
+           label = "vs.", 
+           x = 4.2, y = 66, size = 5) + 
+  annotate(geom = "text", 
+           label = "Final Beliefs", 
+           x = 4.2, y = 77, size = 5, 
+           color = "darkorange") + 
   
   theme_classic() +
   theme(axis.ticks.y = element_blank(),
