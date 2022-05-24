@@ -28,8 +28,10 @@ url_slides: ""
 url_video: ""
 ---
 
+#### Writing executable and fully reproducible (APA) manuscripts in R
 
-## Workshop presented at  
+
+### Workshop presented at  
 - The University of Amsterdam Lecture Series on Good Research Practices
 - The Stanford Center for Open and Reproducible Science (CORES) Fall Lecture Series
 - The International Association for Conflict Management (IACM) Annual Conference
