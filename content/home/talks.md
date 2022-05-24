@@ -1,41 +1,49 @@
 ---
-# An instance of the Pages widget.
+# An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
-active: false
+widget: portfolio
+active: true
+
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 65
 
-title: 'Recent & Upcoming Talks'
-subtitle:
+title: Talks
+subtitle: ''
 
 content:
-  # Page type to display. E.g. post, event, publication...
-  page_type: event # find a draft talk in this folder
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 5
-  # Filter on criteria
-  filters:
-    author: ""
-    category: ""
-    tag: ""
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
-    publication_type: ""
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+  # Page type to display. E.g. project.
+  page_type: talks
+
+  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+  filter_default: 0
+
+  # Filter toolbar (optional).
+  # Add or remove as many filters (`filter_button` instances) as you like.
+  # To show all items, set `tag` to "*".
+  # To filter by a specific tag, set `tag` to an existing tag name.
+  # To remove the toolbar, delete the entire `filter_button` block.
+  # filter_button:
+  # - name: All
+  #   tag: '*'
+  # - name: Deep Learning
+  #   tag: Deep Learning
+  # - name: Other
+  #   tag: Demo
 
 design:
-  # Choose a view for the listings:
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '2'
+
+  # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
-  #   4 = Citation (publication only)
+  #   5 = Showcase
   view: 2
+
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows: false
 ---

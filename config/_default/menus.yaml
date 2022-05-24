@@ -10,15 +10,15 @@ main:
   - name: Posts
     url: '#posts'
     weight: 20
-#  - name: Projects
-#    url: '#projects'
-#    weight: 30
+  - name: Talks
+    url: '#talks'
+    weight: 30
 #  - name: Talks
 #    url: '#talks'
 #    weight: 30
   - name: CV
     url: "cv/shilaan.pdf"
-    weight: 30
+    weight: 40
 #  - name: File Drawer
 #    url: filedrawer/
 #    weight: 30 # keep as draft before committing

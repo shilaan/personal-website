@@ -2,6 +2,9 @@
 title: "Shilaan Alzahawi"
 education:
   courses:
+  - course: MSc in Statistical Science
+    institution: Ghent University
+    year: Expected 2022
   - course: MSc in Business Administration
     institution: Rotterdam School of Management
     year: 2017
@@ -14,10 +17,12 @@ education:
 email: shilaan@stanford.edu
 highlight_name: no
 interests:
-- Statistical Inference
-- Experimental Design
+- Organizational Behavior 
+- Leadership
+- Groups and Teams
+- Team and Crowd Science 
 - Open and Reproducible Science
-- Team and Crowdsourced Science
+- Statistical Inference
 organizations:
 - name: Stanford University
   url: https://datascience.stanford.edu/people/shilaan-alzahawi

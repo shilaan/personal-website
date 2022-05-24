@@ -1,18 +1,21 @@
 # Theme metadata
-name = "Rose"
+name = "Coffee"
 
 # Is theme light or dark?
 light = true
 
 # Primary
-primary = "rgb(251, 191, 183)"
+primary = "#035AA6"
 
 # Menu
-menu_primary = "rgb(247, 247, 247)"
+menu_primary = "#FFF" 
 menu_text = "#000"
-menu_text_active = "rgb(25, 25, 25)"
+menu_text_active = "#035AA6"
 menu_title = "#000"
 
 # Home sections
 home_section_odd = "#FFF"
-home_section_even = "rgb(250, 232, 230)"
+home_section_even = "rgb(234, 242, 250)"
+
+link = "#035AA6"
+link_hover = "#035AA6"
