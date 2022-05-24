@@ -16,9 +16,9 @@ main:
 #  - name: Talks
 #    url: '#talks'
 #    weight: 30
-#  - name: CV
-#    url: '#featured'
-#    weight: 40
+  - name: CV
+    url: "cv/Alzahawi_CV.pdf"
+    weight: 30
 #  - name: File Drawer
 #    url: filedrawer/
 #    weight: 30 # keep as draft before committing
