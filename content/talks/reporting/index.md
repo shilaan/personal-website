@@ -15,8 +15,12 @@ links:
   url: https://www.youtube.com/watch?v=LWcUjltWUNk
 - icon: github
   icon_pack: fab
-  name: Workshop Materials
+  name: Workshop materials
   url: https://github.com/shilaan/example-manuscripts
+- icon: twitter
+  icon_pack: fab
+  name: Tweet 
+  url: https://twitter.com/shilaan01/status/1413946789699325953
 summary: Writing executable and fully reproducible (APA) manuscripts in R
 tags:
 - github
