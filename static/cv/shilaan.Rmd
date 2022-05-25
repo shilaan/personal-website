@@ -159,6 +159,23 @@ Panelist, *Open Update: UNESCO Recommendation on Open Science*. Panel discussion
 
 Panelist, *Multi-Country Replications: Approaches to Multi-Country Replications in Psychology and Behavioural Sciences*. Panel discussion at the Junior Researcher Program Conference, virtual.  
 
+# TEACHING EXPERIENCE
+
+Head Teaching Assistant, Managing Groups and Teams, Stanford MBA \hfill Fall 2022  
+Head Mentor, Data Science for Social Good Program, Stanford Data Science Institute \hfill Winter-Summer 2022   
+Managing Groups and Teams, Stanford MBA \hfill Fall 2019, Fall 2021  
+Mentor, Data Science for Social Good Program, Stanford Data Science Institute \hfill Winter-Summer 2021  
+Acting with Power, Stanford MBA \hfill Spring 2021  
+Data and Decisions, Stanford MBA \hfill Winter 2020  
+Conflict Management and Negotiations, Stanford MBA, MSx \hfill Fall 2020, Winter 2020  
+Innovating in the Behavior Change Market, INSEAD MBA \hfill Spring 2018  
+International Relations, Erasmus University College \hfill Summer 2015  
+Foundations of Law, Erasmus University College \hfill Spring 2015  
+Qualitative Research II: Content Analysis, Erasmus University College \hfill Spring 2015  
+Qualitative Research I: Interviews, Erasmus University College \hfill Winter 2014  
+Highlights of Sociology, Erasmus University College \hfill Winter 2014  
+Introduction to Psychology, Erasmus University College \hfill Fall 2014  
+
 # FELLOWSHIPS, HONORS, AWARDS
 
 SPSP Graduate Student Poster Award [`r fa("globe", fill = "#035AA6")`](http://bit.ly/crowd-poster)  [`r fa("video", fill = "#035AA6")`](https://stanford.zoom.us/rec/share/mmIh1DF4lE37oI3_1SdmfZkVbtSUSp89xFKKSr_5z0EitC9rMlY-dupXziHCszsY.1rNzL38JsVSnXMmH)  \hfill 2022  
@@ -178,23 +195,6 @@ Prins Bernhard Cultuurfonds Research Fund \hfill 2017
 Stichting Vreedefonds Research Fund \hfill 2017  
 Erasmus Happiness Economics Thesis Fund \hfill 2016  
 Certificate of Recognition, Erasmus University Rotterdam \hfill 2014  
-
-# TEACHING EXPERIENCE
-
-Head Teaching Assistant, Managing Groups and Teams, Stanford MBA \hfill Fall 2022  
-Head Mentor, Data Science for Social Good Program, Stanford Data Science Institute \hfill Winter-Summer 2022   
-Managing Groups and Teams, Stanford MBA \hfill Fall 2019, Fall 2021  
-Mentor, Data Science for Social Good Program, Stanford Data Science Institute \hfill Winter-Summer 2021  
-Acting with Power, Stanford MBA \hfill Spring 2021  
-Data and Decisions, Stanford MBA \hfill Winter 2020  
-Conflict Management and Negotiations, Stanford MBA, MSx \hfill Fall 2020, Winter 2020  
-Innovating in the Behavior Change Market, INSEAD MBA \hfill Spring 2018  
-International Relations, Erasmus University College \hfill Summer 2015  
-Foundations of Law, Erasmus University College \hfill Spring 2015  
-Qualitative Research II: Content Analysis, Erasmus University College \hfill Spring 2015  
-Qualitative Research I: Interviews, Erasmus University College \hfill Winter 2014  
-Highlights of Sociology, Erasmus University College \hfill Winter 2014  
-Introduction to Psychology, Erasmus University College \hfill Fall 2014  
 
 # ACADEMIC SERVICE AND VOLUNTEERING
 

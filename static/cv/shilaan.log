@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.24)  25 MAY 2022 00:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.24)  25 MAY 2022 09:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -791,30 +791,30 @@ Package pdftex.def Info: shilaan_files/figure-latex/fa-icon-faa37d6819e8831b56c2
 (pdftex.def)             Requested size: 10.60501pt x 10.94711pt.
 File: shilaan_files/figure-latex/fa-icon-faa37d6819e8831b56c25beffda0f6b9.pdf Graphic file (type pdf)
 <use shilaan_files/figure-latex/fa-icon-faa37d6819e8831b56c25beffda0f6b9.pdf>
-Package pdftex.def Info: shilaan_files/figure-latex/fa-icon-faa37d6819e8831b56c25beffda0f6b9.pdf  used on input line 405.
+Package pdftex.def Info: shilaan_files/figure-latex/fa-icon-faa37d6819e8831b56c25beffda0f6b9.pdf  used on input line 430.
 (pdftex.def)             Requested size: 10.60501pt x 10.94711pt.
 File: shilaan_files/figure-latex/fa-icon-f5165447c8ac76ddcafc42bcb41930b6.pdf Graphic file (type pdf)
 <use shilaan_files/figure-latex/fa-icon-f5165447c8ac76ddcafc42bcb41930b6.pdf>
-Package pdftex.def Info: shilaan_files/figure-latex/fa-icon-f5165447c8ac76ddcafc42bcb41930b6.pdf  used on input line 406.
+Package pdftex.def Info: shilaan_files/figure-latex/fa-icon-f5165447c8ac76ddcafc42bcb41930b6.pdf  used on input line 431.
 (pdftex.def)             Requested size: 12.26257pt x 10.90007pt.
 [3] 
 AED: lastpage setting LastPage
 [4] (./shilaan.aux)
 Package rerunfilecheck Info: File `shilaan.out' has not changed.
-(rerunfilecheck)             Checksum: AE548FE0CB82F53949C10EBFA139CBF1;2512.
+(rerunfilecheck)             Checksum: 0E8B357F0D255001271E82765B077F00;2512.
  ) 
 Here is how much of TeX's memory you used:
  24440 strings out of 480260
  452965 string characters out of 5893504
- 724979 words of memory out of 5000000
+ 724981 words of memory out of 5000000
  41859 multiletter control sequences out of 15000+600000
  506234 words of font info for 83 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  99i,12n,103p,1196b,415s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/shilaan/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{/Users/shilaan/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc} </Users/shilaan/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk>{/Users/shilaan/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</Users/shilaan/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/shilaan/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></Users/shilaan/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></Users/shilaan/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/shilaan/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/shilaan/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on shilaan.pdf (4 pages, 123237 bytes).
+Output written on shilaan.pdf (4 pages, 123385 bytes).
 PDF statistics:
- 230 PDF objects out of 1000 (max. 8388607)
+ 231 PDF objects out of 1000 (max. 8388607)
  184 compressed objects within 2 object streams
  39 named destinations out of 1000 (max. 500000)
  164 words of extra memory for PDF output out of 10000 (max. 10000000)
