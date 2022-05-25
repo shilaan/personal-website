@@ -29,7 +29,7 @@ links:
   icon_pack: ai
   name: Preregistration
   url: https://osf.io/rpu98
-summary: Lay Perceptions of Scientific Findings -- Swayed by the Crowd?
+summary: Lay Perceptions of Scientific Findings --- Swayed by the Crowd?
 tags:
 - Lay Perceptions
 - Science Skepticism
@@ -43,7 +43,10 @@ url_video: ""
 ---
 
 
-## Talk presented at  
+#### Lay Perceptions of Scientific Findings: Swayed by the Crowd?
+
+
+### Talk presented at  
 - The Meta- Research Innovation Center at Stanford (METRICS) International Forum
 - The Toronto Workshop on Reproducibility 
 - Society for Social and Personality Psychology (SPSP) Annual Conference 
@@ -51,7 +54,7 @@ url_video: ""
 - The Rising Scholars Conference, Harvard Business School
 - The Symposium on International Efforts to Improve Psychological Science, Taiwan Psychological Association
 
-## Available recordings  
+### Available recordings  
 - {{< icon name="camera" pack="fa" >}} [**Metrics International Forum**](https://stanford.zoom.us/rec/share/mLwfo-KvZjCvN01fcozmRp8UjN8d8eN0CmIzoIhnpzL960i6NXP5gynSGeU1cP1P.q5qoJ_KEaB8u9FvL?startTime=1646327040000)  
 - {{< icon name="film" pack="fa" >}} [**Toronto Workshop on Reproducibility**](https://www.youtube.com/watch?v=jynbJjTI10o)  
 - {{< icon name="camera-retro" pack="fa" >}} [**Taiwan Psychological Association**](https://stanford.zoom.us/rec/play/9FRF6N_-FIMm4rkUK4MuVWAl4vzcOBENsugJFEJZSD6vtrcW_MD-X3xd6zAbm_wltsKIkHc3XQ5nlFYS.AQ9qjRzo7Dc9V2xp?startTime=1634127778000&_x_zm_rtaid=DCJsVP0gRsqfVJD9N-qxSQ.1643142404846.77bac81f2154d1a25b3dee3e781d0c3a&_x_zm_rhtaid=196)  

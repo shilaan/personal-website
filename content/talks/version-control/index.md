@@ -22,7 +22,7 @@ links:
   name: Tweet
   url: https://twitter.com/shilaan01/status/1519698700548853761
 #slides: example
-summary: Using Git/GitHub in RStudio ❤ A Beginner's Guide to Version Control.
+summary: Using Git/GitHub in RStudio --- A Beginner's Guide to Version Control.
 tags:
 - Version Control
 - Git
@@ -34,7 +34,7 @@ url_slides: ""
 url_video: ""
 ---
 
-#### Using Git/GitHub in RStudio ❤ A Beginner's Guide to Version Control
+#### Using Git/GitHub in RStudio --- A Beginner's Guide to Version Control
 
 
 ### Workshop presented at 
