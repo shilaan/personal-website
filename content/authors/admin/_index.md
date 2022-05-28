@@ -55,6 +55,10 @@ social:
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/shilaan01/ 
+# Link to a PDF of your resume/CV.
+# - icon: cv
+#   icon_pack: ai
+#   link: cv/shilaan.pdf
 superuser: yes
 bio: My research interests include statistics, meta-science, and crowdsourced science
 greeting: alzahawi::shilaan()
@@ -64,4 +68,4 @@ I am a PhD student in Organizational Behavior at the Stanford Graduate School of
 
 My favorite letter in the alphabet is R, and I am weirdly evangelical about it. I co-teach Data & Decisions --- a graduate-level, introductory class on probability and statistics using {{< icon name="r-project" pack="fab" >}} --- and I'm a technical mentor for the Stanford Data Science for Social Good program. I learn by teaching, so I consider myself very lucky!
 
-#### {{< icon name="download" pack="fas" >}}{{< staticref "cv/shilaan.pdf" "newtab" >}}Download my CV{{< /staticref >}}
+#### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "cv/shilaan.pdf" "newtab" >}}Download my CV{{< /staticref >}}
