@@ -36,8 +36,8 @@ url_video: ""
 
 
 ### Workshop presented at  
-- The University of Amsterdam Lecture Series on Good Research Practices
-- The Stanford Center for Open and Reproducible Science (CORES) Fall Lecture Series
-- The International Association for Conflict Management (IACM) Annual Conference
-- The Stanford Data Science for Social Good Program (DSSG)
-- The Stanford Center for Open and Reproducible Science (CORES) launch event
+<i class="fa fa-check" aria-hidden="true" style="color:#035AA6"></i> University of Amsterdam Lecture Series on Good Research Practices  
+<i class="fa fa-check" aria-hidden="true" style="color:#035AA6"></i> Stanford Center for Open and Reproducible Science Fall Lecture Series  
+<i class="fa fa-check" aria-hidden="true" style="color:#035AA6"></i>  International Association for Conflict Management Annual Conference  
+<i class="fa fa-check" aria-hidden="true" style="color:#035AA6"></i> Stanford Data Science for Social Good Program (DSSG)  
+<i class="fa fa-check" aria-hidden="true" style="color:#035AA6"></i>  Stanford Center for Open and Reproducible Science launch event

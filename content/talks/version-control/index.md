@@ -39,6 +39,6 @@ url_video: ""
 
 ### Workshop presented at 
 
-- Stanford Center for Open and Reproducible Science (CORES) Spring Lecture Series
-- Stanford Data Science for Social Good Program (DSSG) 
+<i class="fa fa-check" aria-hidden="true" style="color:#035AA6"></i> Stanford Center for Open and Reproducible Science Spring Lecture Series  
+<i class="fa fa-check" aria-hidden="true" style="color:#035AA6"></i> Stanford Data Science for Social Good Program (DSSG) 
 
