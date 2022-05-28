@@ -196,8 +196,9 @@ Stichting Vreedefonds Research Fund \hfill 2017
 Erasmus Happiness Economics Thesis Fund \hfill 2016  
 Certificate of Recognition, Erasmus University Rotterdam \hfill 2014  
 
-# ACADEMIC SERVICE AND VOLUNTEERING
+# ACADEMIC SERVICE, VOLUNTEERING, AND CONSULTING
 
+Transform to Open Science (TOPS) Curriculum Development Team Lead, NASA \hfill 2022  
 Executive Committee Member (Ex Officio), Society for the Improvement of Psychological Science \hfill 2022  
 Project Manager, Framework for Open and Reproducible Research Training (FORRT) \hfill 2021-present  
 Affiliate, Stanford Center for Open and Reproducible Science \hfill 2020-present  
@@ -223,5 +224,3 @@ Erasmus School of Economics \hfill Summer 2013, 2015-2016
 Social and Behavioral Sciences Department, Erasmus University College \hfill 2014-2015  
 
 <!-- # References -->
-
-<!-- Available upon request, though likely would include Karl Pearson and Ronald A. Fisher. Please send corrections, feedback, or details of missed publications (of which there are probably a few) to svmille@clemson.edu. -->
