@@ -284,9 +284,11 @@ We're ready to write!
 In your console, type 
 
 ```
-blogdown::new_post(title = "My first post",
-                   ext = '.Rmarkdown',
-                   subdir = "post")
+blogdown::new_post(
+  title = "My first post",
+  ext = '.Rmarkdown',
+  subdir = "post"
+  )
 ```
 
 In your `Files` pane, you will now have a folder (under `content/post`) with today's date and the title of your post. The crucial file is `index.Rmarkdown`: this is where you will write your post. 
@@ -308,13 +310,13 @@ library(ggplot2)
 x = seq(-1, 1, .01)
 y = sin(x^3)/(1 + x^6)
 
-ggplot(mapping = aes(x = x, 
-                     y = y)) +
+ggplot(aes(x = x, y = y)) +
 geom_line() +
-geom_ribbon(aes(ymin = 0, 
-                ymax = y), 
-            fill = "pink", 
-            alpha = 0.5) +
+geom_ribbon(
+  aes(ymin = 0, ymax = y), 
+  fill = "pink", 
+  alpha = 0.5
+  ) +
 theme_void() 
 ```
 ````
