@@ -24,7 +24,7 @@ interests:
 - Leadership
 - Groups and Teams
 - Team and Crowd Science 
-- Open and Reproducible Science
+- Open Science
 - Statistical Inference
 organizations:
 - name: Stanford University

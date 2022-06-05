@@ -8,3 +8,31 @@ code {
   font-family: papyrus;
 }
 
+ul.check-mark-list   { /*choose your own descriptive class name. */
+    list-style-type: none;   /* remove the default list bullet */
+}
+
+ul.check-mark-list > li:before {
+   content: "\f14a";  /* put the fontawesome unicode here preceded by slash */
+   font-family: "Font Awesome 5 Free";
+   font-weight: 900;    /* required for Free version */
+   margin-right: 12px;  /* Spacing between bullet and list text */
+   color: #035AA6;       /* we fancy */
+   width: 1em; /* Also needed for space (tweak if needed) */
+   margin-left: -1.5em; /* Also needed for space (tweak if needed) */
+}
+
+ul.emoji-list {
+    list-style-type: none;  /* remove default bullet */
+}
+
+ul.emoji-list > li:before {
+    content: "🤩";  /* create the pseudo-element and add emoji */
+    margin-right: 8px;  /* spacing between bullet and text */
+    width: 1em; /* Also needed for space (tweak if needed) */
+    margin-left: -1.5em; /* Also needed for space (tweak if needed) */
+}
+
+ul.emoji-list > li:hover:before {
+    content: "😍";    /* change the emoji on hover! */
+}

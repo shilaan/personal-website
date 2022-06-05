@@ -80,7 +80,7 @@
 
       {{ with $person.education }}
       <div class="col-md-7">
-        <div class="section-subheading">{{ i18n "education" | markdownify }}</div>
+        <div class="section-subheading" style="color:#035AA6">{{ i18n "education" | markdownify }}</div>
         <ul class="ul-edu fa-ul mb-0">
           {{ range .courses }}
           <li>
@@ -97,8 +97,8 @@
       
       {{ with $person.interests }}
       <div class="col-md-5">
-        <div class="section-subheading">{{ i18n "interests" | markdownify }}</div>
-        <ul class="ul-interests mb-0">
+        <div class="section-subheading" style="color:#035AA6">{{ i18n "interests" | markdownify }}</div>
+        <ul class="check-mark-list">
           {{ range . }}
           <li>{{ . | markdownify | emojify }}</li>
           {{ end }}
