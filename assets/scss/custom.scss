@@ -16,7 +16,7 @@ ul.check-mark-list > li:before {
    content: "\f14a";  /* put the fontawesome unicode here preceded by slash */
    font-family: "Font Awesome 5 Free";
    font-weight: 900;    /* required for Free version */
-   margin-right: 12px;  /* Spacing between bullet and list text */
+   margin-right: 13px;  /* Spacing between bullet and list text */
    color: #035AA6;       /* we fancy */
    width: 1em; /* Also needed for space (tweak if needed) */
    margin-left: -1.5em; /* Also needed for space (tweak if needed) */
