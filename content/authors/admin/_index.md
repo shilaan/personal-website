@@ -73,4 +73,4 @@ I'm always looking for ways to contribute to large-scale efforts that aim to imp
 
 My favorite letter in the alphabet is R, and I am weirdly evangelical about it. I co-teach Data & Decisions --- a graduate-level, introductory class on probability and statistics using <i class="fab fa-r-project" aria-hidden="true" style="color:#035AA6"></i> --- and I'm a co-organizer of the [**Stanford Data Science for Social Good**](https://datascience.stanford.edu/programs/data-science-social-good-summer-program) program. I learn by teaching, so I consider myself very lucky!
 
-#### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "cv/shilaan.pdf" "newtab" >}}Download my CV{{< /staticref >}}
+#### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "cv/alzahawi.pdf" "newtab" >}}Download my CV{{< /staticref >}}

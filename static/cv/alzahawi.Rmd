@@ -1,0 +1,263 @@
+---
+name: Shilaan
+surname: Alzahawi
+position: "PhD Candidate"
+address: "Graduate School of Business, Stanford University"
+#phone: +1 22 3333 4444
+www: shilaan.rbind.io
+email: "shilaan@stanford.edu"
+twitter: shilaan01
+github: shilaan
+#linkedin: mariecurie
+headcolor: "035AA6"
+date: "`r format(Sys.time(), '%B %Y')`"
+output: 
+  vitae::awesomecv:
+    page_total: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+library(fontawesome)
+```
+
+# Education
+
+**Graduate School of Business, Stanford University** \hfill Expected 2025  
+PhD candidate in Organizational Behavior
+
+**Faculty of Sciences, Ghent University** \hfill Expected 2022  
+MSc in Statistical Science, Department of Applied Mathematics, Computer Science, and Statistics
+
+**Rotterdam School of Management and Wharton School of Business** \hfill 2017  
+MSc in Human Resource Management, summa cum laude
+
+**Erasmus University Rotterdam** \hfill 2014  
+BSc in Public Administration Science, Erasmus School of Social and Behavioral Sciences  
+LLB in Law, Erasmus School of Law
+
+
+# Research interests  
+
+Team science; Crowd science; Meta-science; Statistical inference; Research rigor and reproducibility
+
+
+# Publications
+
+## Journal articles
+
+**Alzahawi, S.** & Monin, B. (2022). There Is No Psychology Without Inferential Statistics. *Behavioral and Brain Sciences, 45*, E2. [doi:10.1017/S0140525X2100056X](https://www.doi.org/10.1017/S0140525X2100056X)
+
+Vani, P., **Alzahawi, S.**, Dannals, J., & Halevy, N. Strategic Mindsets and Support for Social Change: Impact Mindset Explains Support for Black Lives Matter across Racial Groups. Forthcoming at *Personality and Social Psychology Bulletin*.
+
+Hoogeveen, S., Sarafoglou, A., Aczel, B., Aditya, Y., Alayan, A.J., Allen, P.J., Altay, S., **Alzahawi, S.**, ..., Van Elk, M., & Wagenmakers, E-J. A Many-Analysts Approach to the Relation between Religiosity and Well-being. Forthcoming at *Religion, Brain & Behavior*.
+
+## Other publications
+
+**Alzahawi, S.** & Chandon, P. (2018). The Carrot Rewards Wellness App: Innovating in the Behavior Change Market. INSEAD Case Publishing. 
+
+# Paper under review
+
+Pownall, M., Azevedo, F., König, L.M., Slack, H.R., Evans, T., Flack, Z., Grinschgl, S., Elsherif, M., Gilligan-Lee, K., Oliveria, C.M., Gjoneska, B., Kanadadze, T., Button, K., Ashcroft-Jones, S., Terry, J., Albayrak-Aydemir, N., Valentine, Z., Děchtěrenko, F., **Alzahawi, S.**, ... The Impact of Open and Reproducible Scholarship on Students’ Scientific Literacy, Engagement, and Attitudes towards Science: A Review and Synthesis of the Evidence. Under Review at *Perspectives on Psychological Science*. 
+
+# Selected research in progress
+
+**Alzahawi, S.**, Reit, E.S., & Flynn, F.J. The (Missing) Link Between Ambition and Leader Effectiveness. 
+
+**Alzahawi, S.** & Monin, B. Lay Perceptions of Scientific Findings: Swayed by the Crowd? Preregistration, data, code, materials, and reproducible working paper available at [osf.io/vedb4](https://osf.io/vedb4)
+
+**Alzahawi, S.** Group-Wise Sequential Hypothesis Testing: Approaches and Trade-offs. Data, code, and reproducible working paper available at [osf.io/veczn](https://osf.io/veczn)
+
+**Alzahawi, S.**, Loeys, T., & Monin, B. Power Analysis Tools for Mixed Effects Models. 
+
+**Alzahawi, S.** Evaluating the Impact of Science Reforms.
+
+**Alzahawi, S.** The Process of Discovery in Organizational Research: From Implicit Defaults to Active Choices.
+
+Van Den Akker, O., Wicherts, J., Bakker, M., Van Assen, M., ... **Alzahawi, S.**, ... Assessing Preregistration Effectiveness.
+
+Azevedo, F., Parsons, S., Micheli, L., Strand, J., ... **Alzahawi, S.**, ... Introducing a Framework for Open and Reproducible Research Training (FORRT). 
+
+Jarke, H., Anand-Vembar, S.,  **Alzahawi, S.**, Andersen, T.L., Bojanić, L., Carstensen, A., Feldman, G., Garcia-Garzon, E., Kapoor, H., Lewis, S., Todsen, A.L., Većkalov, B., Zickfeld, J., & Geiger, S. A Roadmap to Large-Scale Multi-Country Replications in Psychology. 
+
+Manley, H., Selvanathan, H.P., Vollhardt, J., **Alzahawi, S.**, ... The Effect of Sample Country on the Evaluation of Psychological Research.
+
+Korbmacher, M., Hartmann, H., Elsherif, M.M., ... **Alzahawi, S.**, ... From Replicability Crisis to Credibility Revolution: Ways Forward in Psychological Research.
+
+Tierney, W., Viganola, D., Ebersole, C., Hardy, J., ... **Alzahawi, S.**, Monin, B., ... Uhlmann, E.L. Replication Ring Examining the Robustness of Priming Effects on Judgments and Behaviors.
+
+Tierney, W., Cyrus-Lai, W., ... **Alzahawi, S.**, Monin, B., ... Uhlmann, E.L. Who Respects an Angry Woman? A Preregistered Re-examination of the Relationships between Gender, Emotion Expression, and Status Conferral.
+
+Delios, A., Clemente, E., Wu, T., Tan, H., Wang, Y., Gordon, M., Viganola, D., Chen, Z., Dreber, A., Johannesson, M., Pfeiffer, T., **Generalizability Tests Forecasting Collaboration**, & Uhlmann, E.L. Can You Step Into the Same River Twice? Examining the Context Sensitivity of Research Findings from Archival Data.
+
+# Presentations
+
+## Talks
+
+**Alzahawi, S.\*** *A Beginner's Guide to Version Control: Using GitHub in R*.  [`r fa("globe", fill = "#035AA6")`](https://shilaan.rbind.io/talks/version-control/)
+
+- Stanford Data Science for Social Good Program (DSSG)  \hfill 2022
+- Stanford Center for Open and Reproducible Science (CORES) Spring Lecture Series \hfill 2022
+
+**Alzahawi, S.\***, & Monin, B. *The Sway and Credibility of Crowd Science*. [`r fa("globe", fill = "#035AA6")`](https://shilaan.rbind.io/talks/crowd-science/)
+
+- Meta-Research Innovation Center at Stanford (METRICS) International Forum \hfill 2022
+- Toronto Workshop on Reproducibility  \hfill 2022
+- Psychological Science Accelerator Conference (PSACON) \hfill 2021
+- Rising Scholars Conference, Harvard Business School    \hfill 2021
+- International Efforts to Improve Psychological Science Symposium, Taiwan Psychological Association \hfill 2021
+
+Vani, P.\*, **Alzahawi, S.**, Dannals, J., & Halevy, N. *Strategic Mindsets and Support for Social Change: Impact Mindset Explains Support for Black Lives Matter across Racial Groups*.  
+
+- Annual Meeting of the Academy of Management (AOM), Seattle \hfill 2022
+- Society for Personality and Social Psychology, San Francisco \hfill 2022
+- International Association for Conflict Management \hfill 2021
+
+Hartmann, H.\*, Liu, M.\*, Elsherif, M.\*, **Alzahawi, S.\***, Aldoh, A.\*, Azevedo, F.\*, & Leech, G. *Replications & Reversals in Social Sciences*.
+
+- Conference of the Association for Interdisciplinary Metaresearch and Open Science (aimos) \hfill 2021
+
+**Alzahawi, S.\*** *Writing Reproducible Manuscripts in R*. [`r fa("globe", fill = "#035AA6")`](https://shilaan.rbind.io/talks/reporting/)   
+
+- University of Amsterdam Lecture Series on Good Research Practices, The Netherlands  \hfill 2021 
+- Stanford Center for Open and Reproducible Science (CORES) Fall Lecture Series \hfill 2021
+- International Association for Conflict Management 2021  \hfill 2021
+- Stanford Data Science for Social Good Program (DSSG)  \hfill 2021
+- Stanford Center for Open and Reproducible Science (CORES) launch event  \hfill 2021
+
+\newpage
+
+# Presentations (continued)
+
+Halevy, N.\*, **Alzahawi, S.**, & Dannals, J. (2019). *Strategic Thinking in Everyday Life: A Social-Cognitive Approach*.  
+
+- International Association for Conflict Management, Dublin, Ireland \hfill 2019
+- International Conference on Social Dilemmas, Sedona, AZ \hfill 2019
+
+\* indicates presenter
+
+## Chaired symposium
+
+**Alzahawi, S.**, Greer, L., & Neale, M.A. *The Future of Negotiations Research*.  
+
+- Academy of Management, Boston, MA. Selected as Showcase Symposium (top 10%) \hfill 2019
+
+## Panel discussions
+
+*Open Update: UNESCO Recommendation on Open Science*. 
+
+- Panelist at Liberate Science's weekly podcast on the Open Science space \hfill 2022  
+
+*Multi-Country Replications: Approaches to Multi-Country Replications in Psychology and Behavioural Sciences*. 
+
+- Panelist at the Junior Researcher Program Conference \hfill 2021
+
+# Teaching experience
+
+Head Teaching Assistant, Managing Groups and Teams, Stanford MBA \hfill Fall 2022  
+Head Mentor, Data Science for Social Good Program, Stanford Data Science \hfill Spring-Summer 2022   
+Managing Groups and Teams, Stanford MBA \hfill Fall 2019, Fall 2021  
+Mentor, Data Science for Social Good Program, Stanford Data Science \hfill Spring-Summer 2021  
+Acting with Power, Stanford MBA \hfill Spring 2021  
+Data and Decisions, Stanford MBA \hfill Winter 2020  
+Conflict Management and Negotiations, Stanford MBA, MSx \hfill Fall 2020, Winter 2020  
+Innovating in the Behavior Change Market, INSEAD MBA \hfill Spring 2018  
+International Relations, Erasmus University College \hfill Summer 2015  
+Foundations of Law, Erasmus University College \hfill Spring 2015  
+Qualitative Research II: Content Analysis, Erasmus University College \hfill Spring 2015  
+Qualitative Research I: Interviews, Erasmus University College \hfill Winter 2014  
+Highlights of Sociology, Erasmus University College \hfill Winter 2014  
+Introduction to Psychology, Erasmus University College \hfill Fall 2014  
+
+# Fellowships, honors, awards
+
+SPSP Graduate Student Poster Award [`r fa("globe", fill = "#035AA6")`](http://bit.ly/crowd-poster)  \hfill 2022  
+SPSP Graduate Travel Award \hfill 2022  
+Mr. and Mrs. Alfonsi Business School Fund Fellowship \hfill 2021  
+Master Mind Scholarship, Flemish Ministry of Education and Training \hfill 2021  
+Open Science Innovator Award, Stanford Center for Open and Reproducible Science \hfill 2021  
+Dataquest & AI Inclusive Data Science Scholarship \hfill 2020  
+Jonsson Family Fellowship Fund \hfill 2020  
+Showcase Symposium (top 10%), Academy of Management \hfill 2019  
+Dave Mans and Jim Willenborg Fellowship Fund \hfill 2019  
+Kaneko/Lainovic International Fellowship Fund \hfill 2019  
+Stanford Graduate School of Business Fellowship \hfill 2018  
+Best Case Award, EFMD Global Case Writing Competition \hfill 2018  
+Highest Honors, Rotterdam School of Management \hfill 2017  
+Prins Bernhard Cultuurfonds Research Fund \hfill 2017  
+Stichting Vreedefonds Research Fund \hfill 2017  
+Erasmus Happiness Economics Thesis Fund \hfill 2016  
+Certificate of Recognition, Erasmus University Rotterdam \hfill 2014  
+
+# Academic service, volunteering, consulting
+
+Transform to Open Science (TOPS) Curriculum Development Team Lead, NASA \hfill 2022-present  
+Executive Committee Member (Ex Officio), Society for the Improvement of Psychological Science \hfill 2022  
+Project Manager, Framework for Open and Reproducible Research Training (FORRT) \hfill 2021-present  
+Affiliate, Stanford Center for Open and Reproducible Science \hfill 2020-present  
+
+# Languages
+
+Dutch, English, R, R Markdown, Quarto, Git/GitHub, \LaTeX, HTML, CSS, SAS
+
+# Professional memberships
+
+Academy of Management  
+Psychological Science Accelerator  
+Society for Judgment and Decision Making  
+Society for Personality and Social Psychology  
+Society for the Improvement of Psychological Science  
+
+# Previous research and teaching positions 
+
+INSEAD-Sorbonne Behavioral Lab, INSEAD Marketing Department \hfill 2017-2018  
+Harvard Psychology Department and Kennedy School of Government \hfill Summer 2017  
+Decision Processes Lab, Wharton School of Business \hfill Fall 2016  
+Erasmus School of Economics \hfill Summer 2013, 2015-2016  
+Social and Behavioral Sciences Department, Erasmus University College \hfill 2014-2015  
+
+<!-- # Some stuff about me -->
+
+<!--  * I poisoned myself doing research. -->
+<!--  * I was the first woman to win a Nobel prize -->
+<!--  * I was the first person and only woman to win a Nobel prize in two different sciences. -->
+
+<!-- # Education -->
+
+<!-- ```{r} -->
+<!-- library(tibble) -->
+<!-- tribble( -->
+<!--   ~ Degree, ~ Year, ~ Institution, ~ Where, -->
+<!--   "Informal studies", "1889-91", "Flying University", "Warsaw, Poland", -->
+<!--   "Master of Physics", "1893", "Sorbonne Université", "Paris, France", -->
+<!--   "Master of Mathematics", "1894", "Sorbonne Université", "Paris, France" -->
+<!-- ) %>%  -->
+<!--   detailed_entries(Degree, Year, Institution, Where) -->
+<!-- ``` -->
+
+<!-- # Nobel Prizes -->
+
+<!-- ```{r} -->
+<!-- tribble( -->
+<!--   ~Year, ~Type, ~Desc, -->
+<!--   1903, "Physics", "Awarded for her work on radioactivity with Pierre Curie and Henri Becquerel", -->
+<!--   1911, "Chemistry", "Awarded for the discovery of radium and polonium" -->
+<!-- ) %>%  -->
+<!--   brief_entries( -->
+<!--     glue::glue("Nobel Prize in {Type}"), -->
+<!--     Year,  -->
+<!--     Desc -->
+<!--   ) -->
+<!-- ``` -->
+
+<!-- # Publications -->
+
+<!-- ```{r} -->
+<!-- library(dplyr) -->
+<!-- knitr::write_bib(c("vitae", "tibble"), "packages.bib") -->
+
+<!-- bibliography_entries("packages.bib") %>% -->
+<!--   arrange(desc(author$family), issued) -->
+<!-- ``` -->
+
