@@ -2,6 +2,9 @@
 title: "Shilaan Alzahawi"
 education:
   courses:
+  - course: PhD in Organizational Behavior
+    institution: Stanford University
+    year: Expected 2025
   - course: MSc in Statistical Science
     institution: Ghent University
     year: Expected 2022
