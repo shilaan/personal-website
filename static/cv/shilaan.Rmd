@@ -205,7 +205,7 @@ Affiliate, Stanford Center for Open and Reproducible Science \hfill 2020-present
 
 # LANGUAGES
 
-Dutch, English, R, R Markdown, Quarto, Git/GitHub, \LaTeX, SAS
+Dutch, English, R, R Markdown, Quarto, Git/GitHub, \LaTeX, HTML, CSS, SAS
 
 # PROFESSIONAL MEMBERSHIPS
 

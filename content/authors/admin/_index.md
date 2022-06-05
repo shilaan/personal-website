@@ -52,9 +52,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/shilaanalzahawi/
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/shilaan01/ 
+# - icon: instagram
+#   icon_pack: fab
+#   link: https://www.instagram.com/shilaan01/ 
 # Link to a PDF of your resume/CV.
 # - icon: cv
 #   icon_pack: ai
@@ -64,8 +64,10 @@ bio: My research interests include statistics, meta-science, and crowdsourced sc
 greeting: alzahawi::shilaan()
 ---
 
-I am a PhD student in Organizational Behavior at the Stanford Graduate School of Business and an Affiliate at the Stanford Data Science Center for Open and Reproducible Science (SDS-CORES). My research interests include statistics, meta-science, and crowdsourced science. I am passionate about developing tools that increase the rigor, reproducibility, and transparency of scientific research. 
+I am a PhD student in Organizational Behavior at the Stanford Graduate School of Business and an Affiliate at the [**Stanford Data Science Center for Open and Reproducible Science**](https://datascience.stanford.edu/cores) (SDS-CORES). I'm interested in Organizational Behavior, with a special interest in Groups and Teams and Leadership. In addition to my substantive work in Organizational Behavior, I'm interested in meta-science and methods. In my free time, I enjoy deadlifting, hiking, and taking board games much too seriously. 
 
-My favorite letter in the alphabet is R, and I am weirdly evangelical about it. I co-teach Data & Decisions --- a graduate-level, introductory class on probability and statistics using {{< icon name="r-project" pack="fab" >}} --- and I'm a technical mentor for the Stanford Data Science for Social Good program. I learn by teaching, so I consider myself very lucky!
+I'm always looking for ways to contribute to large-scale efforts that aim to improve the rigor and reproducibility of (behavioral) science. For example, I'm a Project Manager of the [**Replications & Reversals**](https://forrt.org/reversals/) project at [**FORRT**](https://forrt.org) (Framework for Open and Reproducible Research Training); I'm an ex-officio member of the [**Executive Board**](https://improvingpsych.org/board/) of [**SIPS**](https://improvingpsych.org) (The Society for the Improvement of Psychological Science); and I'm a Team Lead at the [**NASA TOPS (Transform to Open Science) Mission**](https://science.nasa.gov/open-science/transform-to-open-science), where I lead a team of subject-matter experts in developing a curriculum on Open Science Tools and Resources.  
+
+My favorite letter in the alphabet is R, and I am weirdly evangelical about it. I co-teach Data & Decisions --- a graduate-level, introductory class on probability and statistics using <i class="fab fa-r-project" aria-hidden="true" style="color:#035AA6"></i> --- and I'm a co-organizer of the [**Stanford Data Science for Social Good**](https://datascience.stanford.edu/programs/data-science-social-good-summer-program) program. I learn by teaching, so I consider myself very lucky!
 
 #### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "cv/shilaan.pdf" "newtab" >}}Download my CV{{< /staticref >}}
