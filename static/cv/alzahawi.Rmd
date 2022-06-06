@@ -8,6 +8,7 @@ www: shilaan.rbind.io
 email: "shilaan@stanford.edu"
 twitter: shilaan01
 github: shilaan
+orcid: ug7xd #actually my osf (changed the latex template to refer to osf)
 #linkedin: mariecurie
 headcolor: "035AA6"
 date: "`r format(Sys.time(), '%B %Y')`"
