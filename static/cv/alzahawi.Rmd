@@ -10,7 +10,7 @@ twitter: shilaan01
 github: shilaan
 orcid: ug7xd #refer to osf in back-end
 linkedin: shilaan@stanford.edu #refer to email in back-end 
-profilepic: avatar.jpg
+profilepic: img.jpg
 headcolor: "035AA6"
 date: "`r format(Sys.time(), '%B %Y')`"
 output: 
