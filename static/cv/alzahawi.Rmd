@@ -5,11 +5,12 @@ position: "PhD Candidate"
 address: "Graduate School of Business, Stanford University"
 #phone: +1 22 3333 4444
 www: shilaan.rbind.io
-email: "shilaan@stanford.edu"
+#email: "shilaan@stanford.edu"
 twitter: shilaan01
 github: shilaan
-orcid: ug7xd #actually my osf (changed the latex template to refer to osf)
-#linkedin: mariecurie
+orcid: ug7xd #refer to osf in back-end
+linkedin: shilaan@stanford.edu #refer to email in back-end 
+profilepic: avatar.jpg
 headcolor: "035AA6"
 date: "`r format(Sys.time(), '%B %Y')`"
 output: 
@@ -21,6 +22,8 @@ output:
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 library(vitae)
 library(fontawesome)
+#Note: this template uses fontawesome v4
+#https://fontawesome.com/v4/icons/
 ```
 
 # Education
@@ -48,7 +51,7 @@ Team science; Crowd science; Meta-science; Statistical inference; Research rigor
 
 ## Journal articles
 
-**Alzahawi, S.** & Monin, B. (2022). There Is No Psychology Without Inferential Statistics. *Behavioral and Brain Sciences, 45*, E2. [doi:10.1017/S0140525X2100056X](https://www.doi.org/10.1017/S0140525X2100056X)
+**Alzahawi, S.** & Monin, B. (2022). There Is No Psychology Without Inferential Statistics. *Behavioral and Brain Sciences, 45*, E2. [**doi:10.1017/S0140525X2100056X**](https://www.doi.org/10.1017/S0140525X2100056X)
 
 Vani, P., **Alzahawi, S.**, Dannals, J., & Halevy, N. Strategic Mindsets and Support for Social Change: Impact Mindset Explains Support for Black Lives Matter across Racial Groups. Forthcoming at *Personality and Social Psychology Bulletin*.
 
@@ -66,9 +69,11 @@ Pownall, M., Azevedo, F., König, L.M., Slack, H.R., Evans, T., Flack, Z., Grins
 
 **Alzahawi, S.**, Reit, E.S., & Flynn, F.J. The (Missing) Link Between Ambition and Leader Effectiveness. 
 
-**Alzahawi, S.** & Monin, B. Lay Perceptions of Scientific Findings: Swayed by the Crowd? Preregistration, data, code, materials, and reproducible working paper available at [osf.io/vedb4](https://osf.io/vedb4)
+**Alzahawi, S.** & Monin, B. Lay Perceptions of Scientific Findings: Swayed by the Crowd? Preregistration, data, code, materials, and reproducible working paper available at [**osf.io/vedb4**](https://osf.io/vedb4)
 
-**Alzahawi, S.** Group-Wise Sequential Hypothesis Testing: Approaches and Trade-offs. Data, code, and reproducible working paper available at [osf.io/veczn](https://osf.io/veczn)
+# Selected research in progress (continued)
+
+**Alzahawi, S.** Group-Wise Sequential Hypothesis Testing: Approaches and Trade-offs. Data, code, and reproducible working paper available at [**osf.io/veczn**](https://osf.io/veczn)
 
 **Alzahawi, S.**, Loeys, T., & Monin, B. Power Analysis Tools for Mixed Effects Models. 
 
@@ -119,6 +124,12 @@ Hartmann, H.\*, Liu, M.\*, Elsherif, M.\*, **Alzahawi, S.\***, Aldoh, A.\*, Azev
 
 - Conference of the Association for Interdisciplinary Metaresearch and Open Science (aimos) \hfill 2021
 
+\newpage
+
+# Presentations (continued)
+
+## Talks (continued)
+
 **Alzahawi, S.\*** *Writing Reproducible Manuscripts in R*. [`r fa("globe", fill = "#035AA6")`](https://shilaan.rbind.io/talks/reporting/)   
 
 - University of Amsterdam Lecture Series on Good Research Practices, The Netherlands  \hfill 2021 
@@ -126,10 +137,6 @@ Hartmann, H.\*, Liu, M.\*, Elsherif, M.\*, **Alzahawi, S.\***, Aldoh, A.\*, Azev
 - International Association for Conflict Management 2021  \hfill 2021
 - Stanford Data Science for Social Good Program (DSSG)  \hfill 2021
 - Stanford Center for Open and Reproducible Science (CORES) launch event  \hfill 2021
-
-\newpage
-
-# Presentations (continued)
 
 Halevy, N.\*, **Alzahawi, S.**, & Dannals, J. (2019). *Strategic Thinking in Everyday Life: A Social-Cognitive Approach*.  
 
@@ -146,13 +153,9 @@ Halevy, N.\*, **Alzahawi, S.**, & Dannals, J. (2019). *Strategic Thinking in Eve
 
 ## Panel discussions
 
-*Open Update: UNESCO Recommendation on Open Science*. 
+Open Update: UNESCO Recommendation on Open Science. *Liberate Science* \hfill 2022  
 
-- Panelist at Liberate Science's weekly podcast on the Open Science space \hfill 2022  
-
-*Multi-Country Replications: Approaches to Multi-Country Replications in Psychology and Behavioural Sciences*. 
-
-- Panelist at the Junior Researcher Program Conference \hfill 2021
+Multi-Country Replication Approaches in Psychology and Behavioral Sciences. *Junior Researcher Program* \hfill 2021
 
 # Teaching experience
 
@@ -186,6 +189,9 @@ Kaneko/Lainovic International Fellowship Fund \hfill 2019
 Stanford Graduate School of Business Fellowship \hfill 2018  
 Best Case Award, EFMD Global Case Writing Competition \hfill 2018  
 Highest Honors, Rotterdam School of Management \hfill 2017  
+
+# Fellowships, honors, awards (continued)
+
 Prins Bernhard Cultuurfonds Research Fund \hfill 2017  
 Stichting Vreedefonds Research Fund \hfill 2017  
 Erasmus Happiness Economics Thesis Fund \hfill 2016  
