@@ -89,6 +89,7 @@
   pdftitle={},
   colorlinks=true,
   urlcolor=awesome,
+  linkcolor=awesome,
   pdfauthor={},
   pdfsubject={},
   pdfkeywords={}
