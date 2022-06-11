@@ -199,6 +199,7 @@ Certificate of Recognition, Erasmus University Rotterdam \hfill 2014
 
 # Academic service, volunteering, consulting
 
+Reproduction and Replication Analyst and Auditor, DARPA-SCORE, Center for Open Science \hfill 2022-present  
 Transform to Open Science (TOPS) Curriculum Development Team Lead, NASA \hfill 2022-present  
 Executive Committee Member (Ex Officio), Society for the Improvement of Psychological Science \hfill 2022  
 Project Manager, Framework for Open and Reproducible Research Training (FORRT) \hfill 2021-present  
