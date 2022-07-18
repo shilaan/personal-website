@@ -53,17 +53,15 @@ Team science; Crowd science; Meta-science; Statistical inference; Research rigor
 
 **Alzahawi, S.** & Monin, B. (2022). There Is No Psychology Without Inferential Statistics. *Behavioral and Brain Sciences, 45*, E2. [**doi:10.1017/S0140525X2100056X**](https://www.doi.org/10.1017/S0140525X2100056X)
 
-Vani, P., **Alzahawi, S.**, Dannals, J., & Halevy, N. Strategic Mindsets and Support for Social Change: Impact Mindset Explains Support for Black Lives Matter across Racial Groups. Forthcoming at *Personality and Social Psychology Bulletin*.
+Vani, P., **Alzahawi, S.**, Dannals, J., & Halevy, N. (2022). Strategic Mindsets and Support for Social Change: Impact Mindset Explains Support for Black Lives Matter across Racial Groups. *Personality and Social Psychology Bulletin*. [**doi: 10.1177/01461672221099710**](https://www.doi.org/10.1177/01461672221099710)
 
-Hoogeveen, S., Sarafoglou, A., Aczel, B., Aditya, Y., Alayan, A.J., Allen, P.J., Altay, S., **Alzahawi, S.**, ..., Van Elk, M., & Wagenmakers, E-J. A Many-Analysts Approach to the Relation between Religiosity and Well-being. Forthcoming at *Religion, Brain & Behavior*.
+Hoogeveen, S., Sarafoglou, A., Aczel, B., Aditya, Y., Alayan, A.J., Allen, P.J., Altay, S., **Alzahawi, S.**, ..., Van Elk, M., & Wagenmakers, E-J. (2022). A Many-Analysts Approach to the Relation between Religiosity and Well-being. *Religion, Brain & Behavior*. [**doi: 10.1080/2153599X.2022.2070255**](https://doi.org/10.1080/2153599X.2022.2070255)
+
+Delios, A., Clemente, E., Wu, T., Tan, H., Wang, Y., Gordon, M., Viganola, D., Chen, Z., Dreber, A., Johannesson, M., Pfeiffer, T., **Generalizability Tests Forecasting Collaboration**, & Uhlmann, E.L. Examining the Context Sensitivity of Research Findings from Archival Data. Forthcoming in *Proceedings of the National Academy of Sciences of the United States of America*.
 
 ## Other publications
 
 **Alzahawi, S.** & Chandon, P. (2018). The Carrot Rewards Wellness App: Innovating in the Behavior Change Market. INSEAD Case Publishing. 
-
-# Paper under review
-
-Pownall, M., Azevedo, F., König, L.M., Slack, H.R., Evans, T., Flack, Z., Grinschgl, S., Elsherif, M., Gilligan-Lee, K., Oliveria, C.M., Gjoneska, B., Kanadadze, T., Button, K., Ashcroft-Jones, S., Terry, J., Albayrak-Aydemir, N., Valentine, Z., Děchtěrenko, F., **Alzahawi, S.**, ... The Impact of Open and Reproducible Scholarship on Students’ Scientific Literacy, Engagement, and Attitudes towards Science: A Review and Synthesis of the Evidence. Under Review at *Perspectives on Psychological Science*. 
 
 # Selected research in progress
 
@@ -71,9 +69,10 @@ Pownall, M., Azevedo, F., König, L.M., Slack, H.R., Evans, T., Flack, Z., Grins
 
 **Alzahawi, S.** & Monin, B. Lay Perceptions of Scientific Findings: Swayed by the Crowd? Preregistration, data, code, materials, and reproducible working paper available at [**osf.io/vedb4**](https://osf.io/vedb4)
 
-# Selected research in progress (continued)
-
 **Alzahawi, S.** Group-Wise Sequential Hypothesis Testing: Approaches and Trade-offs. Data, code, and reproducible working paper available at [**osf.io/veczn**](https://osf.io/veczn)
+
+
+# Selected research in progress (continued)
 
 **Alzahawi, S.**, Loeys, T., & Monin, B. Power Analysis Tools for Mixed Effects Models. 
 
@@ -85,6 +84,8 @@ Van Den Akker, O., Wicherts, J., Bakker, M., Van Assen, M., ... **Alzahawi, S.**
 
 Azevedo, F., Parsons, S., Micheli, L., Strand, J., ... **Alzahawi, S.**, ... Introducing a Framework for Open and Reproducible Research Training (FORRT). 
 
+Pownall, M., Azevedo, F., König, L.M., Slack, H.R., Evans, T., Flack, Z., Grinschgl, S., Elsherif, M., Gilligan-Lee, K., Oliveria, C.M., Gjoneska, B., Kanadadze, T., Button, K., Ashcroft-Jones, S., Terry, J., Albayrak-Aydemir, N., Valentine, Z., Děchtěrenko, F., **Alzahawi, S.**, ... The Impact of Open and Reproducible Scholarship on Students’ Scientific Literacy, Engagement, and Attitudes towards Science: A Review and Synthesis of the Evidence. 
+
 Jarke, H., Anand-Vembar, S.,  **Alzahawi, S.**, Andersen, T.L., Bojanić, L., Carstensen, A., Feldman, G., Garcia-Garzon, E., Kapoor, H., Lewis, S., Todsen, A.L., Većkalov, B., Zickfeld, J., & Geiger, S. A Roadmap to Large-Scale Multi-Country Replications in Psychology. 
 
 Manley, H., Selvanathan, H.P., Vollhardt, J., **Alzahawi, S.**, ... The Effect of Sample Country on the Evaluation of Psychological Research.
@@ -94,8 +95,6 @@ Korbmacher, M., Hartmann, H., Elsherif, M.M., ... **Alzahawi, S.**, ... From Rep
 Tierney, W., Viganola, D., Ebersole, C., Hardy, J., ... **Alzahawi, S.**, Monin, B., ... Uhlmann, E.L. Replication Ring Examining the Robustness of Priming Effects on Judgments and Behaviors.
 
 Tierney, W., Cyrus-Lai, W., ... **Alzahawi, S.**, Monin, B., ... Uhlmann, E.L. Who Respects an Angry Woman? A Preregistered Re-examination of the Relationships between Gender, Emotion Expression, and Status Conferral.
-
-Delios, A., Clemente, E., Wu, T., Tan, H., Wang, Y., Gordon, M., Viganola, D., Chen, Z., Dreber, A., Johannesson, M., Pfeiffer, T., **Generalizability Tests Forecasting Collaboration**, & Uhlmann, E.L. Can You Step Into the Same River Twice? Examining the Context Sensitivity of Research Findings from Archival Data.
 
 # Presentations
 
@@ -199,6 +198,7 @@ Certificate of Recognition, Erasmus University Rotterdam \hfill 2014
 
 # Academic service, volunteering, consulting
 
+Open Science Ambassador, Center for Open Science \hfill 2022-present  
 Reproduction and Replication Analyst and Auditor, DARPA-SCORE, Center for Open Science \hfill 2022-present  
 Transform to Open Science (TOPS) Curriculum Development Team Lead, NASA \hfill 2022-present  
 Executive Committee Member (Ex Officio), Society for the Improvement of Psychological Science \hfill 2022  
