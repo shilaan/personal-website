@@ -82,11 +82,7 @@ Delios, A., Clemente, E., Wu, T., Tan, H., Wang, Y., Gordon, M., Viganola, D., C
 
 Van Den Akker, O., Wicherts, J., Bakker, M., Van Assen, M., ... **Alzahawi, S.**, ... Assessing Preregistration Effectiveness.
 
-Azevedo, F., Parsons, S., Micheli, L., Strand, J., ... **Alzahawi, S.**, ... Introducing a Framework for Open and Reproducible Research Training (FORRT). 
-
-Pownall, M., Azevedo, F., König, L.M., Slack, H.R., Evans, T., Flack, Z., Grinschgl, S., Elsherif, M., Gilligan-Lee, K., Oliveria, C.M., Gjoneska, B., Kanadadze, T., Button, K., Ashcroft-Jones, S., Terry, J., Albayrak-Aydemir, N., Valentine, Z., Děchtěrenko, F., **Alzahawi, S.**, ... The Impact of Open and Reproducible Scholarship on Students’ Scientific Literacy, Engagement, and Attitudes towards Science: A Review and Synthesis of the Evidence. 
-
-Jarke, H., Anand-Vembar, S.,  **Alzahawi, S.**, Andersen, T.L., Bojanić, L., Carstensen, A., Feldman, G., Garcia-Garzon, E., Kapoor, H., Lewis, S., Todsen, A.L., Većkalov, B., Zickfeld, J., & Geiger, S. A Roadmap to Large-Scale Multi-Country Replications in Psychology. 
+Azevedo, F., Parsons, S., Micheli, L., Strand, J., ... **Alzahawi, S.**, ... Introducing a Framework for Open and Reproducible Research Training (FORRT).
 
 Manley, H., Selvanathan, H.P., Vollhardt, J., **Alzahawi, S.**, ... The Effect of Sample Country on the Evaluation of Psychological Research.
 
@@ -95,6 +91,12 @@ Korbmacher, M., Hartmann, H., Elsherif, M.M., ... **Alzahawi, S.**, ... From Rep
 Tierney, W., Viganola, D., Ebersole, C., Hardy, J., ... **Alzahawi, S.**, Monin, B., ... Uhlmann, E.L. Replication Ring Examining the Robustness of Priming Effects on Judgments and Behaviors.
 
 Tierney, W., Cyrus-Lai, W., ... **Alzahawi, S.**, Monin, B., ... Uhlmann, E.L. Who Respects an Angry Woman? A Preregistered Re-examination of the Relationships between Gender, Emotion Expression, and Status Conferral.
+
+Jarke, H., Anand-Vembar, S.,  **Alzahawi, S.**, Andersen, T.L., Bojanić, L., Carstensen, A., Feldman, G., Garcia-Garzon, E., Kapoor, H., Lewis, S., Todsen, A.L., Većkalov, B., Zickfeld, J., & Geiger, S. A Roadmap to Large-Scale Multi-Country Replications in Psychology. 
+
+Pownall, M., Azevedo, F., König, L.M., Slack, H.R., Evans, T., Flack, Z., Grinschgl, S., Elsherif, M., Gilligan-Lee, K., Oliveria, C.M., Gjoneska, B., Kanadadze, T., Button, K., Ashcroft-Jones, S., Terry, J., Albayrak-Aydemir, N., Valentine, Z., Děchtěrenko, F., **Alzahawi, S.**, ... The Impact of Open and Reproducible Scholarship on Students’ Scientific Literacy, Engagement, and Attitudes towards Science: A Review and Synthesis of the Evidence. 
+
+Schaerer, M., du Plessis, C., Nguyen, M., Van Aert, R.C.M., Tiokhin, L., Lakens, D., Clemente, E.G., Pfeiffer, T., Dreber, A., Johannesson, M., Clark, C.J., **Gender Audits Forecasting Collaboration**, Uhlmann, E.L. On the Trajectory of Discrimation: A Meta-analysis and Forecasting Survey Capturing 44 Years of Field Experiments on Gender and Hiring Decisions. 
 
 # Presentations
 
@@ -152,7 +154,7 @@ Halevy, N.\*, **Alzahawi, S.**, & Dannals, J. (2019). *Strategic Thinking in Eve
 
 ## Panel discussions
 
-Open Update: UNESCO Recommendation on Open Science. *Liberate Science* \hfill 2022  
+Open Update: UNESCO Recommendation on Open Science. *Liberate Science* [`r fa("globe", fill = "#035AA6")`](https://anchor.fm/open-update/episodes/Interview-Meng-Liu-and-Shilaan-Alzahawi-FORRT-project-e1lcg7q) \hfill 2022  
 
 Multi-Country Replication Approaches in Psychology and Behavioral Sciences. *Junior Researcher Program* \hfill 2021
 
