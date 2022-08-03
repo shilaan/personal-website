@@ -177,6 +177,7 @@ Introduction to Psychology, Erasmus University College \hfill Fall 2014
 
 # Fellowships, honors, awards
 
+Stanford Data Science Scholarship \hfill 2022-2024  
 SPSP Graduate Student Poster Award [`r fa("globe", fill = "#035AA6")`](http://bit.ly/crowd-poster)  \hfill 2022  
 SPSP Graduate Travel Award \hfill 2022  
 Mr. and Mrs. Alfonsi Business School Fund Fellowship \hfill 2021  
@@ -188,11 +189,11 @@ Showcase Symposium (top 10%), Academy of Management \hfill 2019
 Dave Mans and Jim Willenborg Fellowship Fund \hfill 2019  
 Kaneko/Lainovic International Fellowship Fund \hfill 2019  
 Stanford Graduate School of Business Fellowship \hfill 2018  
-Best Case Award, EFMD Global Case Writing Competition \hfill 2018  
-Highest Honors, Rotterdam School of Management \hfill 2017  
 
 # Fellowships, honors, awards (continued)
 
+Best Case Award, EFMD Global Case Writing Competition \hfill 2018  
+Highest Honors, Rotterdam School of Management \hfill 2017  
 Prins Bernhard Cultuurfonds Research Fund \hfill 2017  
 Stichting Vreedefonds Research Fund \hfill 2017  
 Erasmus Happiness Economics Thesis Fund \hfill 2016  
