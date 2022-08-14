@@ -63,7 +63,7 @@ social:
 #   icon_pack: ai
 #   link: cv/shilaan.pdf
 superuser: yes
-bio: My research interests include statistics, meta-science, and crowdsourced science
+bio: My research interests include leadership, team science, and open science
 greeting: alzahawi::shilaan()
 ---
 
