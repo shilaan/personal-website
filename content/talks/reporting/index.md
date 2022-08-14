@@ -41,3 +41,11 @@ url_video: ""
 <i class="fa fa-check" aria-hidden="true" style="color:#035AA6"></i>  International Association for Conflict Management Annual Conference  
 <i class="fa fa-check" aria-hidden="true" style="color:#035AA6"></i> Stanford Data Science for Social Good Program (DSSG)  
 <i class="fa fa-check" aria-hidden="true" style="color:#035AA6"></i>  Stanford Center for Open and Reproducible Science launch event
+
+
+### Available recordings  
+<i class="fa fa-camera" aria-hidden="true" style="color:#035AA6"></i> [**Stanford Center for Open and Reproducible Science**](https://www.youtube.com/watch?v=LWcUjltWUNk)  
+<i class="fa fa-camera-retro" aria-hidden="true" style="color:#035AA6"></i>
+[**International Association for Conflict Management**](https://www.youtube.com/watch?v=ZmpUrdNrXiU)  
+
+
