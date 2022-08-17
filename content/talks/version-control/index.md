@@ -32,6 +32,8 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+authors: 
+  - admin
 ---
 
 #### Using Git/GitHub in RStudio --- A Beginner's Guide to Version Control

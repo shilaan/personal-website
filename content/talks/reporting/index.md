@@ -30,6 +30,8 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+authors: 
+  - admin
 ---
 
 #### Writing executable and fully reproducible (APA) manuscripts in R
