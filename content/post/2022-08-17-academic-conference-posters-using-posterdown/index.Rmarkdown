@@ -82,7 +82,7 @@ Next, you can write inline code (code between single back ticks) to customize yo
 `r `r ''`icons::fontawesome("github")`
 ````
 
-will create an inline github icon: 
+will create an inline github icon:  
 `r icons::fontawesome("github")`
 
 If you'd like to further customize your icons, you can wrap the code above with the `icon_style()` function and pass additional comma-separated arguments, such as `scale` and `fill` to set the size and color of the icon.  
@@ -92,7 +92,7 @@ For example,
 `r `r ''`icon_style(icons::academicons("osf"), scale = 2, fill = "#035AA6")`
 ````
 
-will create a larger OSF icon in blue: 
+will create a larger OSF icon in blue:  
 `r icon_style(icons::academicons("osf"), scale = 2, fill = "#035AA6")`
 
 ### CSS 
