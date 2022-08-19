@@ -78,7 +78,7 @@ Use the following settings:
 
 ## Step 3: Create website with {blogdown}
 
-```
+```r
 install.packages("blogdown") # install the blogdown package
 library(blogdown) # load blogdown
 new_site(theme = "wowchemy/starter-academic") # create your website!
@@ -97,11 +97,11 @@ A preview will show up in your Viewer Pane. Click on the  {{< icon name="externa
 ## Step 4: Push ⬆︎ to GitHub 
 
 In the console, run the following line of code to create a `.gitignore` file:
-```
+```r
 file.edit("gitignore")
 ```
 Add the following lines to the `.gitignore` file: 
-```
+```r
 .Rproj.user
 .Rhistory
 .RData
@@ -111,7 +111,7 @@ Thumbs.db
 ```
 
 Before we make our first commit, we use blogdown to check all our files:
-```
+```r
 blogdown::check_site()
 ```
 This will give you a number of `[TODO]` items, like adding `public` and `resources` to the `.gitignore` file, which you can do safely. Don't worry about content flagged as `draft` or files with a future publish date. If you have a `[TODO]` item related to your `.Rprofile`, run `blogdown::config_Rprofile()`.
@@ -143,23 +143,23 @@ After logging in to Netlify through GitHub, you can deploy[^1] your website and 
 
 Back in RStudio, change the baseurl to your new link in your configuration file: 
 
-```
+```r
 install.packages("rstudioapi")
 library(rstudioapi) # to easily navigate to files
 rstudioapi::navigateToFile("config.yaml")
 ```
 In `config.yaml`, set the following:  
-```
+```yaml
 baseurl: 'http://your-site-name.netlify.app' # use the link you just created
 ```
 
 Before committing, let's again run
-```
+```r
 blogdown::check_site() # checks to resolve critical [TODOs] before commit
 ``` 
 
 Among other things, you need to make sure that the version of Hugo that you are using locally with {blogdown} matches the version used by Netlify (which is specified in `netlify.toml`). You will likely need to change your `netlify.toml` file. Remember that you can easily navigate to this file using 
-```
+```r
 rstudioapi::navigateToFile("netlify.toml") 
 ```
 
@@ -177,7 +177,7 @@ It's time to customize! ❤︎
 
 First, we'll edit the `About` information (called a widget) on your homepage.
 
-```
+```r
 rstudioapi::navigateToFile("content/authors/admin/_index.md")
 ```
 
@@ -186,7 +186,7 @@ rstudioapi::navigateToFile("content/authors/admin/_index.md")
 ☞ Add your picture called `avatar.jpg` to the `content/authors/admin/` folder 
 
 To change (or remove) the title of your `About` widget, 
-```
+```r
 rstudioapi::navigateToFile("content/home/about.md")
 ```
 set `title: My new title`
@@ -219,7 +219,7 @@ Now that you've deactivated some widgets, you'll no longer want to link to them 
 
 Customize your main menu in `config/_default/menus.yaml`
 
-``` 
+``` r
 rstudioapi::navigateToFile("config/_default/menus.yaml")
 ```
 
@@ -272,7 +272,7 @@ If you find these posts helpful, you can always take another look at them on the
 
 If you really want to keep these files on hand, you can save them as a draft so that they don't publish on your site anymore. You will still see them in your preview when you serve your site locally. For example:
 
-```
+```r
 rstudioapi::navigateToFile("content/post/getting-started/index.md")
 ```
 Now, set `draft:true` in the front matter. From now on, whenever you run `blogdown::check_site()`, you will be reminded that you have these files marked as drafts.  
@@ -283,7 +283,7 @@ We're ready to write!
 
 In your console, type 
 
-```
+```r
 blogdown::new_post(
   title = "My first post",
   ext = '.Rmarkdown',
