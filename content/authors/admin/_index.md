@@ -40,9 +40,9 @@ social:
   icon_pack: fab
   label: Find me on Twitter
   link: https://twitter.com/shilaan01
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=FNPgIGAAAAAJ&hl=en&oi=sra
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=FNPgIGAAAAAJ&hl=en&oi=sra
 - icon: osf
   icon_pack: ai
   link: https://osf.io/ug7xd/ 
