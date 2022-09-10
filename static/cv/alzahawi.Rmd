@@ -31,7 +31,7 @@ library(fontawesome)
 **Graduate School of Business, Stanford University** \hfill Expected 2025  
 PhD candidate in Organizational Behavior
 
-**Faculty of Sciences, Ghent University** \hfill Expected 2022  
+**Faculty of Sciences, Ghent University** \hfill Expected 2023  
 MSc in Statistical Science, Department of Applied Mathematics, Computer Science, and Statistics
 
 **Rotterdam School of Management and Wharton School of Business** \hfill 2017  
@@ -44,7 +44,7 @@ LLB in Law, Erasmus School of Law
 
 # Research interests  
 
-Team science; Crowd science; Meta-science; Statistical inference; Research rigor and reproducibility
+Leadership; Managing groups and teams; Team science; Crowd science; Meta-science; Statistical inference
 
 
 # Publications
@@ -63,40 +63,44 @@ Delios, A., Clemente, E., Wu, T., Tan, H., Wang, Y., Gordon, M., Viganola, D., C
 
 **Alzahawi, S.** & Chandon, P. (2018). The Carrot Rewards Wellness App: Innovating in the Behavior Change Market. INSEAD Case Publishing. 
 
+# Paper under review
+
+**Alzahawi, S.**, Reit, E.S., & Flynn, F.J. A Legend in One's Own Mind: The (Missing) Link Between Ambition and Leader Effectiveness. Under Review at *The Leadership Quarterly*. 
+
 # Selected research in progress
 
-**Alzahawi, S.**, Reit, E.S., & Flynn, F.J. The (Missing) Link Between Ambition and Leader Effectiveness. 
-
 **Alzahawi, S.** & Monin, B. Lay Perceptions of Scientific Findings: Swayed by the Crowd? Preregistration, data, code, materials, and reproducible working paper available at [**osf.io/vedb4**](https://osf.io/vedb4)
-
-**Alzahawi, S.** Group-Wise Sequential Hypothesis Testing: Approaches and Trade-offs. Data, code, and reproducible working paper available at [**osf.io/veczn**](https://osf.io/veczn)
 
 
 # Selected research in progress (continued)
 
+**Alzahawi, S.** Group-Wise Sequential Hypothesis Testing: Approaches and Trade-offs. Data, code, and reproducible working paper available at [**osf.io/veczn**](https://osf.io/veczn)
+
+**Alzahawi, S.** & Flynn, F.J. Think Leader, Think Know-It-All? The Interpersonal Effects of Leader-Expressed Uncertainty.
+
 **Alzahawi, S.**, Loeys, T., & Monin, B. Power Analysis Tools for Mixed Effects Models. 
 
-**Alzahawi, S.** Evaluating the Impact of Science Reforms.
+<!-- **Alzahawi, S.** Evaluating the Impact of Science Reforms. -->
 
-**Alzahawi, S.** The Process of Discovery in Organizational Research: From Implicit Defaults to Active Choices.
+<!-- **Alzahawi, S.** The Process of Discovery in Organizational Research: From Implicit Defaults to Active Choices. -->
 
-Van Den Akker, O., Wicherts, J., Bakker, M., Van Assen, M., ... **Alzahawi, S.**, ... Assessing Preregistration Effectiveness.
+<!-- Van Den Akker, O., Wicherts, J., Bakker, M., Van Assen, M., ... **Alzahawi, S.**, ... Assessing Preregistration Effectiveness. -->
 
-Azevedo, F., Parsons, S., Micheli, L., Strand, J., ... **Alzahawi, S.**, ... Introducing a Framework for Open and Reproducible Research Training (FORRT).
+<!-- Azevedo, F., Parsons, S., Micheli, L., Strand, J., ... **Alzahawi, S.**, ... Introducing a Framework for Open and Reproducible Research Training (FORRT). -->
 
-Manley, H., Selvanathan, H.P., Vollhardt, J., **Alzahawi, S.**, ... The Effect of Sample Country on the Evaluation of Psychological Research.
+<!-- Manley, H., Selvanathan, H.P., Vollhardt, J., **Alzahawi, S.**, ... The Effect of Sample Country on the Evaluation of Psychological Research. -->
 
-Korbmacher, M., Hartmann, H., Elsherif, M.M., ... **Alzahawi, S.**, ... From Replicability Crisis to Credibility Revolution: Ways Forward in Psychological Research.
+<!-- Korbmacher, M., Hartmann, H., Elsherif, M.M., ... **Alzahawi, S.**, ... From Replicability Crisis to Credibility Revolution: Ways Forward in Psychological Research. -->
 
-Tierney, W., Viganola, D., Ebersole, C., Hardy, J., ... **Alzahawi, S.**, Monin, B., ... Uhlmann, E.L. Replication Ring Examining the Robustness of Priming Effects on Judgments and Behaviors.
+<!-- Tierney, W., Viganola, D., Ebersole, C., Hardy, J., ... **Alzahawi, S.**, Monin, B., ... Uhlmann, E.L. Replication Ring Examining the Robustness of Priming Effects on Judgments and Behaviors. -->
 
-Tierney, W., Cyrus-Lai, W., ... **Alzahawi, S.**, Monin, B., ... Uhlmann, E.L. Who Respects an Angry Woman? A Preregistered Re-examination of the Relationships between Gender, Emotion Expression, and Status Conferral.
+<!-- Tierney, W., Cyrus-Lai, W., ... **Alzahawi, S.**, Monin, B., ... Uhlmann, E.L. Who Respects an Angry Woman? A Preregistered Re-examination of the Relationships between Gender, Emotion Expression, and Status Conferral. -->
 
-Jarke, H., Anand-Vembar, S.,  **Alzahawi, S.**, Andersen, T.L., Bojanić, L., Carstensen, A., Feldman, G., Garcia-Garzon, E., Kapoor, H., Lewis, S., Todsen, A.L., Većkalov, B., Zickfeld, J., & Geiger, S. A Roadmap to Large-Scale Multi-Country Replications in Psychology. 
+<!-- Jarke, H., Anand-Vembar, S.,  **Alzahawi, S.**, Andersen, T.L., Bojanić, L., Carstensen, A., Feldman, G., Garcia-Garzon, E., Kapoor, H., Lewis, S., Todsen, A.L., Većkalov, B., Zickfeld, J., & Geiger, S. A Roadmap to Large-Scale Multi-Country Replications in Psychology.  -->
 
-Pownall, M., Azevedo, F., König, L.M., Slack, H.R., Evans, T., Flack, Z., Grinschgl, S., Elsherif, M., Gilligan-Lee, K., Oliveria, C.M., Gjoneska, B., Kanadadze, T., Button, K., Ashcroft-Jones, S., Terry, J., Albayrak-Aydemir, N., Valentine, Z., Děchtěrenko, F., **Alzahawi, S.**, ... The Impact of Open and Reproducible Scholarship on Students’ Scientific Literacy, Engagement, and Attitudes towards Science: A Review and Synthesis of the Evidence. 
+<!-- Pownall, M., Azevedo, F., König, L.M., Slack, H.R., Evans, T., Flack, Z., Grinschgl, S., Elsherif, M., Gilligan-Lee, K., Oliveria, C.M., Gjoneska, B., Kanadadze, T., Button, K., Ashcroft-Jones, S., Terry, J., Albayrak-Aydemir, N., Valentine, Z., Děchtěrenko, F., **Alzahawi, S.**, ... The Impact of Open and Reproducible Scholarship on Students’ Scientific Literacy, Engagement, and Attitudes towards Science: A Review and Synthesis of the Evidence.  -->
 
-Schaerer, M., du Plessis, C., Nguyen, M., Van Aert, R.C.M., Tiokhin, L., Lakens, D., Clemente, E.G., Pfeiffer, T., Dreber, A., Johannesson, M., Clark, C.J., **Gender Audits Forecasting Collaboration**, Uhlmann, E.L. On the Trajectory of Discrimation: A Meta-analysis and Forecasting Survey Capturing 44 Years of Field Experiments on Gender and Hiring Decisions. 
+<!-- Schaerer, M., du Plessis, C., Nguyen, M., Van Aert, R.C.M., Tiokhin, L., Lakens, D., Clemente, E.G., Pfeiffer, T., Dreber, A., Johannesson, M., Clark, C.J., **Gender Audits Forecasting Collaboration**, Uhlmann, E.L. On the Trajectory of Discrimation: A Meta-analysis and Forecasting Survey Capturing 44 Years of Field Experiments on Gender and Hiring Decisions.  -->
 
 # Presentations
 
@@ -121,15 +125,15 @@ Vani, P.\*, **Alzahawi, S.**, Dannals, J., & Halevy, N. *Strategic Mindsets and 
 - Society for Personality and Social Psychology, San Francisco \hfill 2022
 - International Association for Conflict Management \hfill 2021
 
+<!-- \newpage -->
+
+<!-- # Presentations (continued) -->
+
+<!-- ## Talks (continued) -->
+
 Hartmann, H.\*, Liu, M.\*, Elsherif, M.\*, **Alzahawi, S.\***, Aldoh, A.\*, Azevedo, F.\*, & Leech, G. *Replications & Reversals in Social Sciences*.
 
 - Conference of the Association for Interdisciplinary Metaresearch and Open Science (aimos) \hfill 2021
-
-\newpage
-
-# Presentations (continued)
-
-## Talks (continued)
 
 **Alzahawi, S.\*** *Writing Reproducible Manuscripts in R*. [`r fa("globe", fill = "#035AA6")`](https://shilaan.rbind.io/talks/reporting/)   
 
@@ -157,6 +161,8 @@ Halevy, N.\*, **Alzahawi, S.**, & Dannals, J. (2019). *Strategic Thinking in Eve
 Open Update: UNESCO Recommendation on Open Science. *Liberate Science* [`r fa("globe", fill = "#035AA6")`](https://anchor.fm/open-update/episodes/Interview-Meng-Liu-and-Shilaan-Alzahawi-FORRT-project-e1lcg7q) \hfill 2022  
 
 Multi-Country Replication Approaches in Psychology and Behavioral Sciences. *Junior Researcher Program* \hfill 2021
+
+\newpage
 
 # Teaching experience
 
@@ -189,9 +195,7 @@ Showcase Symposium (top 10%), Academy of Management \hfill 2019
 Dave Mans and Jim Willenborg Fellowship Fund \hfill 2019  
 Kaneko/Lainovic International Fellowship Fund \hfill 2019  
 Stanford Graduate School of Business Fellowship \hfill 2018  
-
-# Fellowships, honors, awards (continued)
-
+<!-- # Fellowships, honors, awards (continued) -->
 Best Case Award, EFMD Global Case Writing Competition \hfill 2018  
 Highest Honors, Rotterdam School of Management \hfill 2017  
 Prins Bernhard Cultuurfonds Research Fund \hfill 2017  
@@ -201,6 +205,7 @@ Certificate of Recognition, Erasmus University Rotterdam \hfill 2014
 
 # Academic service, volunteering, consulting
 
+Tutorial Reviewer, Advances in Methods and Practices in Psychological Science (AMPPS) \hfill 2022-present  
 Open Science Ambassador, Center for Open Science \hfill 2022-present  
 Reproduction and Replication Analyst and Auditor, DARPA-SCORE, Center for Open Science \hfill 2022-present  
 Transform to Open Science (TOPS) Curriculum Development Team Lead, NASA \hfill 2022-present  
@@ -208,17 +213,19 @@ Executive Committee Member (Ex Officio), Society for the Improvement of Psycholo
 Project Manager, Framework for Open and Reproducible Research Training (FORRT) \hfill 2021-present  
 Affiliate, Stanford Center for Open and Reproducible Science \hfill 2020-present  
 
-# Languages
-
-Dutch, English, R, R Markdown, Quarto, Git/GitHub, \LaTeX, HTML, CSS, SAS
-
 # Professional memberships
 
 Academy of Management  
 Psychological Science Accelerator  
 Society for Judgment and Decision Making  
 Society for Personality and Social Psychology  
-Society for the Improvement of Psychological Science  
+Society for the Improvement of Psychological Science 
+
+\newpage
+
+# Languages
+
+Dutch, English, R, R Markdown, Quarto, Git/GitHub, \LaTeX, HTML, CSS, SAS
 
 # Previous research and teaching positions 
 
@@ -227,48 +234,4 @@ Harvard Psychology Department and Kennedy School of Government \hfill Summer 201
 Decision Processes Lab, Wharton School of Business \hfill Fall 2016  
 Erasmus School of Economics \hfill Summer 2013, 2015-2016  
 Social and Behavioral Sciences Department, Erasmus University College \hfill 2014-2015  
-
-<!-- # Some stuff about me -->
-
-<!--  * I poisoned myself doing research. -->
-<!--  * I was the first woman to win a Nobel prize -->
-<!--  * I was the first person and only woman to win a Nobel prize in two different sciences. -->
-
-<!-- # Education -->
-
-<!-- ```{r} -->
-<!-- library(tibble) -->
-<!-- tribble( -->
-<!--   ~ Degree, ~ Year, ~ Institution, ~ Where, -->
-<!--   "Informal studies", "1889-91", "Flying University", "Warsaw, Poland", -->
-<!--   "Master of Physics", "1893", "Sorbonne Université", "Paris, France", -->
-<!--   "Master of Mathematics", "1894", "Sorbonne Université", "Paris, France" -->
-<!-- ) %>%  -->
-<!--   detailed_entries(Degree, Year, Institution, Where) -->
-<!-- ``` -->
-
-<!-- # Nobel Prizes -->
-
-<!-- ```{r} -->
-<!-- tribble( -->
-<!--   ~Year, ~Type, ~Desc, -->
-<!--   1903, "Physics", "Awarded for her work on radioactivity with Pierre Curie and Henri Becquerel", -->
-<!--   1911, "Chemistry", "Awarded for the discovery of radium and polonium" -->
-<!-- ) %>%  -->
-<!--   brief_entries( -->
-<!--     glue::glue("Nobel Prize in {Type}"), -->
-<!--     Year,  -->
-<!--     Desc -->
-<!--   ) -->
-<!-- ``` -->
-
-<!-- # Publications -->
-
-<!-- ```{r} -->
-<!-- library(dplyr) -->
-<!-- knitr::write_bib(c("vitae", "tibble"), "packages.bib") -->
-
-<!-- bibliography_entries("packages.bib") %>% -->
-<!--   arrange(desc(author$family), issued) -->
-<!-- ``` -->
 
