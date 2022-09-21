@@ -108,10 +108,9 @@ Delios, A., Clemente, E., Wu, T., Tan, H., Wang, Y., Gordon, M., Viganola, D., C
 
 **Alzahawi, S.\*** *A Beginner's Guide to Version Control: Using GitHub in R*.  [`r fa("globe", fill = "#035AA6")`](https://shilaan.rbind.io/talks/version-control/)
 
-- Stanford Data Science for Social Good Program (DSSG)  \hfill 2022
 - Stanford Center for Open and Reproducible Science (CORES) Spring Lecture Series \hfill 2022
 
-**Alzahawi, S.\***, & Monin, B. *The Sway and Credibility of Crowd Science*. [`r fa("globe", fill = "#035AA6")`](https://shilaan.rbind.io/talks/crowd-science/)
+**Alzahawi, S.\***, & Monin, B. *Lay Perceptions of Scientific Findings: Swayed by the Crowd?* [`r fa("globe", fill = "#035AA6")`](https://shilaan.rbind.io/talks/crowd-science/)
 
 - Meta-Research Innovation Center at Stanford (METRICS) International Forum \hfill 2022
 - Toronto Workshop on Reproducibility  \hfill 2022
@@ -208,10 +207,9 @@ Certificate of Recognition, Erasmus University Rotterdam \hfill 2014
 
 Tutorial Reviewer, Advances in Methods and Practices in Psychological Science (AMPPS) \hfill 2022-present  
 Open Science Ambassador, Center for Open Science \hfill 2022-present  
-Reproduction and Replication Analyst and Auditor, DARPA-SCORE, Center for Open Science \hfill 2022-present  
-Transform to Open Science (TOPS) Curriculum Development Team Lead, NASA \hfill 2022-present  
+Reproduction and Replication Analyst, DARPA-SCORE, Center for Open Science \hfill 2022-present  
+Transform to Open Science (TOPS) Curriculum Development Team Lead, NASA \hfill 2022  
 Executive Committee Member (Ex Officio), Society for the Improvement of Psychological Science \hfill 2022  
-Project Manager, Framework for Open and Reproducible Research Training (FORRT) \hfill 2021-present  
 Affiliate, Stanford Center for Open and Reproducible Science \hfill 2020-present  
 
 # Professional memberships
