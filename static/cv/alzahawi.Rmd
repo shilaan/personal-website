@@ -63,16 +63,18 @@ Delios, A., Clemente, E., Wu, T., Tan, H., Wang, Y., Gordon, M., Viganola, D., C
 
 **Alzahawi, S.** & Chandon, P. (2018). The Carrot Rewards Wellness App: Innovating in the Behavior Change Market. INSEAD Case Publishing. 
 
-# Paper under review
+# Papers under review
 
 **Alzahawi, S.**, Reit, E.S., & Flynn, F.J. A Legend in One's Own Mind: The (Missing) Link Between Ambition and Leader Effectiveness. Under Review at *The Leadership Quarterly*. 
+
+Pownall, M., Azevedo, F., König, L.M., Slack, H.R., Evans, T., Flack, Z., Grinschgl, S., Elsherif, M., Gilligan-Lee, K., Oliveria, C.M., Gjoneska, B., Kanadadze, T., Button, K., Ashcroft-Jones, S., Terry, J., Albayrak-Aydemir, N., Valentine, Z., Děchtěrenko, F., **Alzahawi, S.**, ... Does Open and Reproducible Scholarship Influence Students’ Scientific Literacy, Engagement, and Attitudes Towards Science? A Critical Review. Under Review at *Royal Society Open Science*.
 
 # Selected research in progress
 
 **Alzahawi, S.** & Monin, B. Lay Perceptions of Scientific Findings: Swayed by the Crowd? Preregistration, data, code, materials, and reproducible working paper available at [**osf.io/vedb4**](https://osf.io/vedb4)
 
 
-# Selected research in progress (continued)
+<!-- # Selected research in progress (continued) -->
 
 **Alzahawi, S.** Group-Wise Sequential Hypothesis Testing: Approaches and Trade-offs. Data, code, and reproducible working paper available at [**osf.io/veczn**](https://osf.io/veczn)
 
@@ -97,8 +99,6 @@ Delios, A., Clemente, E., Wu, T., Tan, H., Wang, Y., Gordon, M., Viganola, D., C
 <!-- Tierney, W., Cyrus-Lai, W., ... **Alzahawi, S.**, Monin, B., ... Uhlmann, E.L. Who Respects an Angry Woman? A Preregistered Re-examination of the Relationships between Gender, Emotion Expression, and Status Conferral. -->
 
 <!-- Jarke, H., Anand-Vembar, S.,  **Alzahawi, S.**, Andersen, T.L., Bojanić, L., Carstensen, A., Feldman, G., Garcia-Garzon, E., Kapoor, H., Lewis, S., Todsen, A.L., Većkalov, B., Zickfeld, J., & Geiger, S. A Roadmap to Large-Scale Multi-Country Replications in Psychology.  -->
-
-<!-- Pownall, M., Azevedo, F., König, L.M., Slack, H.R., Evans, T., Flack, Z., Grinschgl, S., Elsherif, M., Gilligan-Lee, K., Oliveria, C.M., Gjoneska, B., Kanadadze, T., Button, K., Ashcroft-Jones, S., Terry, J., Albayrak-Aydemir, N., Valentine, Z., Děchtěrenko, F., **Alzahawi, S.**, ... The Impact of Open and Reproducible Scholarship on Students’ Scientific Literacy, Engagement, and Attitudes towards Science: A Review and Synthesis of the Evidence.  -->
 
 <!-- Schaerer, M., du Plessis, C., Nguyen, M., Van Aert, R.C.M., Tiokhin, L., Lakens, D., Clemente, E.G., Pfeiffer, T., Dreber, A., Johannesson, M., Clark, C.J., **Gender Audits Forecasting Collaboration**, Uhlmann, E.L. On the Trajectory of Discrimation: A Meta-analysis and Forecasting Survey Capturing 44 Years of Field Experiments on Gender and Hiring Decisions.  -->
 
