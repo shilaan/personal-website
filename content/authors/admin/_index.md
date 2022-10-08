@@ -7,7 +7,7 @@ education:
     year: Expected 2025
   - course: MSc in Statistical Science
     institution: Ghent University
-    year: Expected 2022
+    year: Expected 2023
   - course: MSc in Business Administration
     institution: Rotterdam School of Management
     year: 2017
