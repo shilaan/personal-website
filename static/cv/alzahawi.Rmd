@@ -49,25 +49,33 @@ Leadership; Managing groups and teams; Team science; Crowd science; Meta-science
 
 # Publications
 
-## Journal articles
+## Main journal articles
 
-**Alzahawi, S.** & Monin, B. (2022). There Is No Psychology Without Inferential Statistics. *Behavioral and Brain Sciences, 45*, E2. [**doi:10.1017/S0140525X2100056X**](https://www.doi.org/10.1017/S0140525X2100056X)
+1. **Alzahawi, S.** & Monin, B. (2022). There Is No Psychology Without Inferential Statistics. *Behavioral and Brain Sciences, 45*, E2. [**doi:10.1017/S0140525X2100056X**](https://www.doi.org/10.1017/S0140525X2100056X)
 
-Vani, P., **Alzahawi, S.**, Dannals, J., & Halevy, N. (2022). Strategic Mindsets and Support for Social Change: Impact Mindset Explains Support for Black Lives Matter across Racial Groups. *Personality and Social Psychology Bulletin*. [**doi: 10.1177/01461672221099710**](https://www.doi.org/10.1177/01461672221099710)
+2. Vani, P., **Alzahawi, S.**, Dannals, J., & Halevy, N. (2022). Strategic Mindsets and Support for Social Change: Impact Mindset Explains Support for Black Lives Matter across Racial Groups. *Personality and Social Psychology Bulletin*. [**doi: 10.1177/01461672221099710**](https://www.doi.org/10.1177/01461672221099710)
 
-Hoogeveen, S., Sarafoglou, A., Aczel, B., Aditya, Y., Alayan, A.J., Allen, P.J., Altay, S., **Alzahawi, S.**, ..., Van Elk, M., & Wagenmakers, E-J. (2022). A Many-Analysts Approach to the Relation between Religiosity and Well-being. *Religion, Brain & Behavior*. [**doi: 10.1080/2153599X.2022.2070255**](https://doi.org/10.1080/2153599X.2022.2070255)
+## Big team science
 
-Delios, A., Clemente, E., Wu, T., Tan, H., Wang, Y., Gordon, M., Viganola, D., Chen, Z., Dreber, A., Johannesson, M., Pfeiffer, T., **Generalizability Tests Forecasting Collaboration**, & Uhlmann, E.L. Examining the Context Sensitivity of Research Findings from Archival Data. Forthcoming in *Proceedings of the National Academy of Sciences of the United States of America*.
+3. Hoogeveen, S., Sarafoglou, A., Aczel, B., Aditya, Y., Alayan, A.J., Allen, P.J., Altay, S., **Alzahawi, S.**, ..., Van Elk, M., & Wagenmakers, E-J. (2022). A Many-Analysts Approach to the Relation between Religiosity and Well-being. *Religion, Brain & Behavior*. [**doi: 10.1080/2153599X.2022.2070255**](https://doi.org/10.1080/2153599X.2022.2070255)
+
+4. Delios, A., Clemente, E., Wu, T., Tan, H., Wang, Y., Gordon, M., Viganola, D., Chen, Z., Dreber, A., Johannesson, M., Pfeiffer, T., **Generalizability Tests Forecasting Collaboration**, & Uhlmann, E.L. Examining the Context Sensitivity of Research Findings from Archival Data. Forthcoming in *Proceedings of the National Academy of Sciences of the United States of America*.
 
 ## Other publications
 
-**Alzahawi, S.** & Chandon, P. (2018). The Carrot Rewards Wellness App: Innovating in the Behavior Change Market. INSEAD Case Publishing. 
+5. **Alzahawi, S.** & Chandon, P. (2018). The Carrot Rewards Wellness App: Innovating in the Behavior Change Market. INSEAD Case Publishing. 
 
-# Papers under review
+# Papers under review or revision
 
 **Alzahawi, S.**, Reit, E.S., & Flynn, F.J. A Legend in One's Own Mind: The (Missing) Link Between Ambition and Leader Effectiveness. Under Review at *The Leadership Quarterly*. 
 
 Pownall, M., Azevedo, F., König, L.M., Slack, H.R., Evans, T., Flack, Z., Grinschgl, S., Elsherif, M., Gilligan-Lee, K., Oliveria, C.M., Gjoneska, B., Kanadadze, T., Button, K., Ashcroft-Jones, S., Terry, J., Albayrak-Aydemir, N., Valentine, Z., Děchtěrenko, F., **Alzahawi, S.**, ... Does Open and Reproducible Scholarship Influence Students’ Scientific Literacy, Engagement, and Attitudes Towards Science? A Critical Review. Under Review at *Royal Society Open Science*.
+
+# Papers under review or revision (continued)
+
+Jarke, H., Anand-Vembar, S.,  **Alzahawi, S.**, Andersen, T.L., Bojanić, L., Carstensen, A., Feldman, G., Garcia-Garzon, E., Kapoor, H., Lewis, S., Todsen, A.L., Većkalov, B., Zickfeld, J., & Geiger, S. A Roadmap to Large-Scale Multi-Country Replications in Psychology. Revise & Resubmit at *Collabra: Psychology*. 
+
+<!-- Tierney, W., Cyrus-Lai, W., ... **Alzahawi, S.**, ... Uhlmann, E.L. Who Respects an Angry Woman? A Preregistered Re-examination of the Relationships between Gender, Emotion Expression, and Status Conferral. Under Review at *Organizational Behavior and Human Decision Processes*. -->
 
 # Selected research in progress
 
@@ -96,10 +104,6 @@ Pownall, M., Azevedo, F., König, L.M., Slack, H.R., Evans, T., Flack, Z., Grins
 
 <!-- Tierney, W., Viganola, D., Ebersole, C., Hardy, J., ... **Alzahawi, S.**, Monin, B., ... Uhlmann, E.L. Replication Ring Examining the Robustness of Priming Effects on Judgments and Behaviors. -->
 
-<!-- Tierney, W., Cyrus-Lai, W., ... **Alzahawi, S.**, Monin, B., ... Uhlmann, E.L. Who Respects an Angry Woman? A Preregistered Re-examination of the Relationships between Gender, Emotion Expression, and Status Conferral. -->
-
-<!-- Jarke, H., Anand-Vembar, S.,  **Alzahawi, S.**, Andersen, T.L., Bojanić, L., Carstensen, A., Feldman, G., Garcia-Garzon, E., Kapoor, H., Lewis, S., Todsen, A.L., Većkalov, B., Zickfeld, J., & Geiger, S. A Roadmap to Large-Scale Multi-Country Replications in Psychology.  -->
-
 <!-- Schaerer, M., du Plessis, C., Nguyen, M., Van Aert, R.C.M., Tiokhin, L., Lakens, D., Clemente, E.G., Pfeiffer, T., Dreber, A., Johannesson, M., Clark, C.J., **Gender Audits Forecasting Collaboration**, Uhlmann, E.L. On the Trajectory of Discrimation: A Meta-analysis and Forecasting Survey Capturing 44 Years of Field Experiments on Gender and Hiring Decisions.  -->
 
 # Presentations
@@ -125,8 +129,6 @@ Vani, P.\*, **Alzahawi, S.**, Dannals, J., & Halevy, N. *Strategic Mindsets and 
 - International Association for Conflict Management \hfill 2021
 
 <!-- \newpage -->
-
-<!-- # Presentations (continued) -->
 
 <!-- ## Talks (continued) -->
 
@@ -155,13 +157,13 @@ Halevy, N.\*, **Alzahawi, S.**, & Dannals, J. (2019). *Strategic Thinking in Eve
 
 - Academy of Management, Boston, MA. Selected as Showcase Symposium (top 10%) \hfill 2019
 
+# Presentations (continued)
+
 ## Panel discussions
 
 Open Update: UNESCO Recommendation on Open Science. *Liberate Science* [`r fa("globe", fill = "#035AA6")`](https://anchor.fm/open-update/episodes/Interview-Meng-Liu-and-Shilaan-Alzahawi-FORRT-project-e1lcg7q) \hfill 2022  
 
 Multi-Country Replication Approaches in Psychology and Behavioral Sciences. *Junior Researcher Program* \hfill 2021
-
-\newpage
 
 # Teaching experience
 
@@ -212,6 +214,8 @@ Transform to Open Science (TOPS) Curriculum Development Team Lead, NASA \hfill 2
 Executive Committee Member (Ex Officio), Society for the Improvement of Psychological Science \hfill 2022  
 Affiliate, Stanford Center for Open and Reproducible Science \hfill 2020-present  
 
+\newpage
+
 # Professional memberships
 
 Academy of Management  
@@ -219,8 +223,6 @@ Psychological Science Accelerator
 Society for Judgment and Decision Making  
 Society for Personality and Social Psychology  
 Society for the Improvement of Psychological Science 
-
-\newpage
 
 # Languages
 
