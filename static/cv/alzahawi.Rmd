@@ -51,7 +51,7 @@ Leadership; Managing groups and teams; Team science; Crowd science; Meta-science
 
 ## Main journal articles
 
-1. **Alzahawi, S.** & Monin, B. (2022). There Is No Psychology Without Inferential Statistics. *Behavioral and Brain Sciences, 45*, E2. [**doi:10.1017/S0140525X2100056X**](https://www.doi.org/10.1017/S0140525X2100056X)
+1. **Alzahawi, S.** & Monin, B. (2022). There Is No Psychology Without Inferential Statistics. *Behavioral and Brain Sciences, 45*, E2. [**doi: 10.1017/S0140525X2100056X**](https://www.doi.org/10.1017/S0140525X2100056X)
 
 2. Vani, P., **Alzahawi, S.**, Dannals, J., & Halevy, N. (2022). Strategic Mindsets and Support for Social Change: Impact Mindset Explains Support for Black Lives Matter across Racial Groups. *Personality and Social Psychology Bulletin*. [**doi: 10.1177/01461672221099710**](https://www.doi.org/10.1177/01461672221099710)
 
@@ -59,21 +59,25 @@ Leadership; Managing groups and teams; Team science; Crowd science; Meta-science
 
 3. Hoogeveen, S., Sarafoglou, A., Aczel, B., Aditya, Y., Alayan, A.J., Allen, P.J., Altay, S., **Alzahawi, S.**, ..., Van Elk, M., & Wagenmakers, E-J. (2022). A Many-Analysts Approach to the Relation between Religiosity and Well-being. *Religion, Brain & Behavior*. [**doi: 10.1080/2153599X.2022.2070255**](https://doi.org/10.1080/2153599X.2022.2070255)
 
-4. Delios, A., Clemente, E., Wu, T., Tan, H., Wang, Y., Gordon, M., Viganola, D., Chen, Z., Dreber, A., Johannesson, M., Pfeiffer, T., **Generalizability Tests Forecasting Collaboration**, & Uhlmann, E.L. Examining the Context Sensitivity of Research Findings from Archival Data. Forthcoming in *Proceedings of the National Academy of Sciences of the United States of America*.
+4. Delios, A., Clemente, E., Wu, T., Tan, H., Wang, Y., Gordon, M., Viganola, D., Chen, Z., Dreber, A., Johannesson, M., Pfeiffer, T., **Generalizability Tests Forecasting Collaboration**, & Uhlmann, E.L. (2022). Examining the Context Sensitivity of Research Findings from Archival Data. *Proceedings of the National Academy of Sciences of the United States of America, 119*, 30. [**doi: 10.1073/pnas.2120377119**](https://doi.org/10.1073/pnas.2120377119)
 
 ## Other publications
 
-5. **Alzahawi, S.** & Chandon, P. (2018). The Carrot Rewards Wellness App: Innovating in the Behavior Change Market. INSEAD Case Publishing. 
+5. Park, J.W., Vani, P., Loyd, D.L., Foster-Gimbel, O., Lee, M., **Alzahawi, S.**, Craig, M., Dannals, J., Halevy, N., Kraus, M.W., Phillips, L.T., Saint-Hilaire, S. (2022). All In This Together: Antecedents and Consequences of Allyship in Organizations. *Academy of Management Proceedings*. [**doi: 10.5465/AMBPP.2022.10623symposium**](https://doi.org/10.5465/AMBPP.2022.10623symposium)
+
+6. **Alzahawi, S.**, Greer, L.L., Neale, M.A., Mason, M., Brady, G.L., Brooks, A.W., Hart, E., Lee, M., Inesi, M.E., Kray, L., & Mussweiler, T. (2019). The Future of Negotiations Research. *Academy of Management Proceedings*. [**doi: 10.5465/AMBPP.2019.13300symposium**](https://doi.org/10.5465/AMBPP.2019.13300symposium)
+
+7. **Alzahawi, S.** & Chandon, P. (2018). The Carrot Rewards Wellness App: Innovating in the Behavior Change Market. INSEAD Case Publishing.
+
+\newpage
 
 # Papers under review or revision
 
 **Alzahawi, S.**, Reit, E.S., & Flynn, F.J. A Legend in One's Own Mind: The (Missing) Link Between Ambition and Leader Effectiveness. Under Review at *The Leadership Quarterly*. 
 
-Pownall, M., Azevedo, F., König, L.M., Slack, H.R., Evans, T., Flack, Z., Grinschgl, S., Elsherif, M., Gilligan-Lee, K., Oliveria, C.M., Gjoneska, B., Kanadadze, T., Button, K., Ashcroft-Jones, S., Terry, J., Albayrak-Aydemir, N., Valentine, Z., Děchtěrenko, F., **Alzahawi, S.**, ... Does Open and Reproducible Scholarship Influence Students’ Scientific Literacy, Engagement, and Attitudes Towards Science? A Critical Review. Under Review at *Royal Society Open Science*.
-
-# Papers under review or revision (continued)
-
 Jarke, H., Anand-Vembar, S.,  **Alzahawi, S.**, Andersen, T.L., Bojanić, L., Carstensen, A., Feldman, G., Garcia-Garzon, E., Kapoor, H., Lewis, S., Todsen, A.L., Većkalov, B., Zickfeld, J., & Geiger, S. A Roadmap to Large-Scale Multi-Country Replications in Psychology. Revise & Resubmit at *Collabra: Psychology*. 
+
+Pownall, M., Azevedo, F., König, L.M., Slack, H.R., Evans, T., Flack, Z., Grinschgl, S., Elsherif, M., Gilligan-Lee, K., Oliveria, C.M., Gjoneska, B., Kanadadze, T., Button, K., Ashcroft-Jones, S., Terry, J., Albayrak-Aydemir, N., Valentine, Z., Děchtěrenko, F., **Alzahawi, S.**, ... Does Open and Reproducible Scholarship Influence Students’ Scientific Literacy, Engagement, and Attitudes Towards Science? A Critical Review. Under Review at *Royal Society Open Science*.
 
 <!-- Tierney, W., Cyrus-Lai, W., ... **Alzahawi, S.**, ... Uhlmann, E.L. Who Respects an Angry Woman? A Preregistered Re-examination of the Relationships between Gender, Emotion Expression, and Status Conferral. Under Review at *Organizational Behavior and Human Decision Processes*. -->
 
@@ -86,7 +90,7 @@ Jarke, H., Anand-Vembar, S.,  **Alzahawi, S.**, Andersen, T.L., Bojanić, L., Ca
 
 **Alzahawi, S.** Group-Wise Sequential Hypothesis Testing: Approaches and Trade-offs. Data, code, and reproducible working paper available at [**osf.io/veczn**](https://osf.io/veczn)
 
-**Alzahawi, S.** & Flynn, F.J. Think Leader, Think Know-It-All? The Interpersonal Effects of Leader-Expressed Uncertainty.
+**Alzahawi, S.** & Flynn, F.J. Think Leader, Think Know-It-All? The True Benefits of Expressed (Un)certainty.
 
 **Alzahawi, S.**, Loeys, T., & Monin, B. Power Analysis Tools for Mixed Effects Models. 
 
@@ -108,7 +112,7 @@ Jarke, H., Anand-Vembar, S.,  **Alzahawi, S.**, Andersen, T.L., Bojanić, L., Ca
 
 # Presentations
 
-## Talks
+## Talks (\* indicates presenter)
 
 **Alzahawi, S.\*** *A Beginner's Guide to Version Control: Using GitHub in R*.  [`r fa("globe", fill = "#035AA6")`](https://shilaan.rbind.io/talks/version-control/)
 
@@ -149,15 +153,13 @@ Halevy, N.\*, **Alzahawi, S.**, & Dannals, J. (2019). *Strategic Thinking in Eve
 - International Association for Conflict Management, Dublin, Ireland \hfill 2019
 - International Conference on Social Dilemmas, Sedona, AZ \hfill 2019
 
-\* indicates presenter
-
 ## Chaired symposium
 
 **Alzahawi, S.**, Greer, L., & Neale, M.A. *The Future of Negotiations Research*.  
 
 - Academy of Management, Boston, MA. Selected as Showcase Symposium (top 10%) \hfill 2019
 
-# Presentations (continued)
+<!-- # Presentations (continued) -->
 
 ## Panel discussions
 
@@ -210,6 +212,7 @@ Certificate of Recognition, Erasmus University Rotterdam \hfill 2014
 Tutorial Reviewer, Advances in Methods and Practices in Psychological Science (AMPPS) \hfill 2022-present  
 Open Science Ambassador, Center for Open Science \hfill 2022-present  
 Reproduction and Replication Analyst, DARPA-SCORE, Center for Open Science \hfill 2022-present  
+Co-organizer, Stanford GSB-PhD Alumni Conference \hfill 2022  
 Transform to Open Science (TOPS) Curriculum Development Team Lead, NASA \hfill 2022  
 Executive Committee Member (Ex Officio), Society for the Improvement of Psychological Science \hfill 2022  
 Affiliate, Stanford Center for Open and Reproducible Science \hfill 2020-present  
