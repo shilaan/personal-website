@@ -44,7 +44,7 @@ LLB in Law, Erasmus School of Law
 
 # Research interests  
 
-Leadership; Managing groups and teams; Team science; Crowd science; Meta-science; Statistical inference
+Leadership; Person perception; Prediction errors; Team science; Crowd science; Statistical inference
 
 
 # Publications
@@ -57,25 +57,30 @@ Leadership; Managing groups and teams; Team science; Crowd science; Meta-science
 
 ## Big team science
 
-3. Hoogeveen, S., Sarafoglou, A., Aczel, B., Aditya, Y., Alayan, A.J., Allen, P.J., Altay, S., **Alzahawi, S.**, ..., Van Elk, M., & Wagenmakers, E-J. (2022). A Many-Analysts Approach to the Relation between Religiosity and Well-being. *Religion, Brain & Behavior*. [**doi: 10.1080/2153599X.2022.2070255**](https://doi.org/10.1080/2153599X.2022.2070255)
+3. Jarke, H., Anand-Vembar, S.,  **Alzahawi, S.**, Andersen, T.L., Bojanić, L., Carstensen, A., Feldman, G., Garcia-Garzon, E., Kapoor, H., Lewis, S., Todsen, A.L., Većkalov, B., Zickfeld, J., & Geiger, S. A Roadmap to Large-Scale Multi-Country Replications in Psychology. Forthcoming in *Collabra: Psychology*. 
 
-4. Delios, A., Clemente, E., Wu, T., Tan, H., Wang, Y., Gordon, M., Viganola, D., Chen, Z., Dreber, A., Johannesson, M., Pfeiffer, T., **Generalizability Tests Forecasting Collaboration**, & Uhlmann, E.L. (2022). Examining the Context Sensitivity of Research Findings from Archival Data. *Proceedings of the National Academy of Sciences of the United States of America, 119*, 30. [**doi: 10.1073/pnas.2120377119**](https://doi.org/10.1073/pnas.2120377119)
+4. Hoogeveen, S., Sarafoglou, A., Aczel, B., Aditya, Y., Alayan, A.J., Allen, P.J., Altay, S., **Alzahawi, S.**, ..., Van Elk, M., & Wagenmakers, E-J. (2022). A Many-Analysts Approach to the Relation between Religiosity and Well-being. *Religion, Brain & Behavior*. [**doi: 10.1080/2153599X.2022.2070255**](https://doi.org/10.1080/2153599X.2022.2070255)
+
+5. Delios, A., Clemente, E., Wu, T., Tan, H., Wang, Y., Gordon, M., Viganola, D., Chen, Z., Dreber, A., Johannesson, M., Pfeiffer, T., **Generalizability Tests Forecasting Collaboration**, & Uhlmann, E.L. (2022). Examining the Context Sensitivity of Research Findings from Archival Data. *Proceedings of the National Academy of Sciences of the United States of America, 119*, 30. [**doi: 10.1073/pnas.2120377119**](https://doi.org/10.1073/pnas.2120377119)
 
 ## Other publications
 
-5. Park, J.W., Vani, P., Loyd, D.L., Foster-Gimbel, O., Lee, M., **Alzahawi, S.**, Craig, M., Dannals, J., Halevy, N., Kraus, M.W., Phillips, L.T., Saint-Hilaire, S. (2022). All In This Together: Antecedents and Consequences of Allyship in Organizations. *Academy of Management Proceedings*. [**doi: 10.5465/AMBPP.2022.10623symposium**](https://doi.org/10.5465/AMBPP.2022.10623symposium)
+6. Park, J.W., Vani, P., Loyd, D.L., Foster-Gimbel, O., Lee, M., **Alzahawi, S.**, Craig, M., Dannals, J., Halevy, N., Kraus, M.W., Phillips, L.T., Saint-Hilaire, S. (2022). All In This Together: Antecedents and Consequences of Allyship in Organizations. *Academy of Management Proceedings*. [**doi: 10.5465/AMBPP.2022.10623symposium**](https://doi.org/10.5465/AMBPP.2022.10623symposium)
 
-6. **Alzahawi, S.**, Greer, L.L., Neale, M.A., Mason, M., Brady, G.L., Brooks, A.W., Hart, E., Lee, M., Inesi, M.E., Kray, L., & Mussweiler, T. (2019). The Future of Negotiations Research. *Academy of Management Proceedings*. [**doi: 10.5465/AMBPP.2019.13300symposium**](https://doi.org/10.5465/AMBPP.2019.13300symposium)
+7. **Alzahawi, S.**, Greer, L.L., Neale, M.A., Mason, M., Brady, G.L., Brooks, A.W., Hart, E., Lee, M., Inesi, M.E., Kray, L., & Mussweiler, T. (2019). The Future of Negotiations Research. *Academy of Management Proceedings*. [**doi: 10.5465/AMBPP.2019.13300symposium**](https://doi.org/10.5465/AMBPP.2019.13300symposium)
 
-7. **Alzahawi, S.** & Chandon, P. (2018). The Carrot Rewards Wellness App: Innovating in the Behavior Change Market. INSEAD Case Publishing.
+# Publications (continued)
 
-\newpage
+## Other publications (continued)
+
+8. **Alzahawi, S.** & Chandon, P. (2018). The Carrot Rewards Wellness App: Innovating in the Behavior Change Market. INSEAD Case Publishing.
+
 
 # Papers under review or revision
 
-**Alzahawi, S.**, Reit, E.S., & Flynn, F.J. A Legend in One's Own Mind: The (Missing) Link Between Ambition and Leader Effectiveness. Under Review at *The Leadership Quarterly*. 
+**Alzahawi, S.** & Flynn, F.J. Think Leader, Think Know-It-All? The True Benefits of Expressed (Un)certainty. Submitted to *The Leadership Quarterly*.
 
-Jarke, H., Anand-Vembar, S.,  **Alzahawi, S.**, Andersen, T.L., Bojanić, L., Carstensen, A., Feldman, G., Garcia-Garzon, E., Kapoor, H., Lewis, S., Todsen, A.L., Većkalov, B., Zickfeld, J., & Geiger, S. A Roadmap to Large-Scale Multi-Country Replications in Psychology. Revise & Resubmit at *Collabra: Psychology*. 
+**Alzahawi, S.**, Reit, E.S., & Flynn, F.J. A Legend in One's Own Mind: The Missing Link Between Ambition and Leader Effectiveness. Submitted to *Nature Human Behavior*.
 
 Pownall, M., Azevedo, F., König, L.M., Slack, H.R., Evans, T., Flack, Z., Grinschgl, S., Elsherif, M., Gilligan-Lee, K., Oliveria, C.M., Gjoneska, B., Kanadadze, T., Button, K., Ashcroft-Jones, S., Terry, J., Albayrak-Aydemir, N., Valentine, Z., Děchtěrenko, F., **Alzahawi, S.**, ... Does Open and Reproducible Scholarship Influence Students’ Scientific Literacy, Engagement, and Attitudes Towards Science? A Critical Review. Under Review at *Royal Society Open Science*.
 
@@ -90,8 +95,6 @@ Pownall, M., Azevedo, F., König, L.M., Slack, H.R., Evans, T., Flack, Z., Grins
 
 **Alzahawi, S.** Group-Wise Sequential Hypothesis Testing: Approaches and Trade-offs. Data, code, and reproducible working paper available at [**osf.io/veczn**](https://osf.io/veczn)
 
-**Alzahawi, S.** & Flynn, F.J. Think Leader, Think Know-It-All? The True Benefits of Expressed (Un)certainty.
-
 **Alzahawi, S.**, Loeys, T., & Monin, B. Power Analysis Tools for Mixed Effects Models. 
 
 <!-- **Alzahawi, S.** Evaluating the Impact of Science Reforms. -->
@@ -101,8 +104,6 @@ Pownall, M., Azevedo, F., König, L.M., Slack, H.R., Evans, T., Flack, Z., Grins
 <!-- Van Den Akker, O., Wicherts, J., Bakker, M., Van Assen, M., ... **Alzahawi, S.**, ... Assessing Preregistration Effectiveness. -->
 
 <!-- Azevedo, F., Parsons, S., Micheli, L., Strand, J., ... **Alzahawi, S.**, ... Introducing a Framework for Open and Reproducible Research Training (FORRT). -->
-
-<!-- Manley, H., Selvanathan, H.P., Vollhardt, J., **Alzahawi, S.**, ... The Effect of Sample Country on the Evaluation of Psychological Research. -->
 
 <!-- Korbmacher, M., Hartmann, H., Elsherif, M.M., ... **Alzahawi, S.**, ... From Replicability Crisis to Credibility Revolution: Ways Forward in Psychological Research. -->
 
@@ -206,7 +207,20 @@ Highest Honors, Rotterdam School of Management \hfill 2017
 Prins Bernhard Cultuurfonds Research Fund \hfill 2017  
 Stichting Vreedefonds Research Fund \hfill 2017  
 Erasmus Happiness Economics Thesis Fund \hfill 2016  
-Certificate of Recognition, Erasmus University Rotterdam \hfill 2014  
+Certificate of Recognition, Erasmus University Rotterdam \hfill 2014 
+
+# Academic service, volunteering, consulting
+
+Tutorial Reviewer, Advances in Methods and Practices in Psychological Science (AMPPS) \hfill 2022-present  
+Open Science Ambassador, Center for Open Science \hfill 2022-present
+
+# Academic service, volunteering, consulting (continued)
+
+Reproduction and Replication Analyst, DARPA-SCORE, Center for Open Science \hfill 2022-present  
+Co-organizer, Stanford GSB-PhD Alumni Conference \hfill 2022  
+Transform to Open Science (TOPS) Curriculum Development Team Lead, NASA \hfill 2022  
+Executive Committee Member (Ex Officio), Society for the Improvement of Psychological Science \hfill 2022  
+Affiliate, Stanford Center for Open and Reproducible Science \hfill 2020-present  
 
 # Professional memberships
 
@@ -216,17 +230,7 @@ Society for Judgment and Decision Making
 Society for Personality and Social Psychology  
 Society for the Improvement of Psychological Science 
 
-\newpage
 
-# Academic service, volunteering, consulting
-
-Tutorial Reviewer, Advances in Methods and Practices in Psychological Science (AMPPS) \hfill 2022-present  
-Open Science Ambassador, Center for Open Science \hfill 2022-present  
-Reproduction and Replication Analyst, DARPA-SCORE, Center for Open Science \hfill 2022-present  
-Co-organizer, Stanford GSB-PhD Alumni Conference \hfill 2022  
-Transform to Open Science (TOPS) Curriculum Development Team Lead, NASA \hfill 2022  
-Executive Committee Member (Ex Officio), Society for the Improvement of Psychological Science \hfill 2022  
-Affiliate, Stanford Center for Open and Reproducible Science \hfill 2020-present  
 
 # Languages
 
