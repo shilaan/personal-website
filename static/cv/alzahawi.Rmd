@@ -57,7 +57,7 @@ Leadership; Person perception; Prediction errors; Team science; Crowd science; S
 
 ## Big team science
 
-3. Jarke, H., Anand-Vembar, S.,  **Alzahawi, S.**, Andersen, T.L., Bojanić, L., Carstensen, A., Feldman, G., Garcia-Garzon, E., Kapoor, H., Lewis, S., Todsen, A.L., Većkalov, B., Zickfeld, J., & Geiger, S. A Roadmap to Large-Scale Multi-Country Replications in Psychology. Forthcoming in *Collabra: Psychology*. 
+3. Jarke, H., Anand-Vembar, S.,  **Alzahawi, S.**, Andersen, T.L., Bojanić, L., Carstensen, A., Feldman, G., Garcia-Garzon, E., Kapoor, H., Lewis, S., Todsen, A.L., Većkalov, B., Zickfeld, J., & Geiger, S. (2022). A Roadmap to Large-Scale Multi-Country Replications in Psychology. *Collabra: Psychology*. [**doi: 10.1525/collabra.57538**](https://doi.org/10.1525/collabra.57538) 
 
 4. Hoogeveen, S., Sarafoglou, A., Aczel, B., Aditya, Y., Alayan, A.J., Allen, P.J., Altay, S., **Alzahawi, S.**, ..., Van Elk, M., & Wagenmakers, E-J. (2022). A Many-Analysts Approach to the Relation between Religiosity and Well-being. *Religion, Brain & Behavior*. [**doi: 10.1080/2153599X.2022.2070255**](https://doi.org/10.1080/2153599X.2022.2070255)
 
@@ -78,15 +78,17 @@ Leadership; Person perception; Prediction errors; Team science; Crowd science; S
 
 # Papers under review or revision
 
-**Alzahawi, S.** & Flynn, F.J. Think Leader, Think Know-It-All? The True Benefits of Expressed (Un)certainty. Submitted to *The Leadership Quarterly*.
+Yang, X., Schulz, J., Schmidt, K, ... **Alzahawi, S.**, ... Large-scale Cross-societal Examination of Real- and Minimal-group Biases. Revise and Resubmit at *Nature Human Behavior*. 
 
-**Alzahawi, S.**, Reit, E.S., & Flynn, F.J. A Legend in One's Own Mind: The Missing Link Between Ambition and Leader Effectiveness. Submitted to *Nature Human Behavior*.
+Tierney, W., Cyrus-Lai, W., ... **Alzahawi, S.**, ... Uhlmann, E.L. Who Respects an Angry Woman? A Preregistered Re-examination of the Relationships between Gender, Emotion Expression, and Status Conferral. Under Review at *Organizational Behavior and Human Decision Processes*.
 
 Pownall, M., Azevedo, F., König, L.M., Slack, H.R., Evans, T., Flack, Z., Grinschgl, S., Elsherif, M., Gilligan-Lee, K., Oliveria, C.M., Gjoneska, B., Kanadadze, T., Button, K., Ashcroft-Jones, S., Terry, J., Albayrak-Aydemir, N., Valentine, Z., Děchtěrenko, F., **Alzahawi, S.**, ... Does Open and Reproducible Scholarship Influence Students’ Scientific Literacy, Engagement, and Attitudes Towards Science? A Critical Review. Under Review at *Royal Society Open Science*.
 
-<!-- Tierney, W., Cyrus-Lai, W., ... **Alzahawi, S.**, ... Uhlmann, E.L. Who Respects an Angry Woman? A Preregistered Re-examination of the Relationships between Gender, Emotion Expression, and Status Conferral. Under Review at *Organizational Behavior and Human Decision Processes*. -->
-
 # Selected research in progress
+
+**Alzahawi, S.** & Flynn, F.J. Think Leader, Think Know-It-All? The True Benefits of Expressed (Un)certainty. 
+
+**Alzahawi, S.**, Reit, E.S., & Flynn, F.J. A Legend in One's Own Mind: The Missing Link Between Ambition and Leader Effectiveness. 
 
 **Alzahawi, S.** & Monin, B. Lay Perceptions of Scientific Findings: Swayed by the Crowd? Preregistration, data, code, materials, and reproducible working paper available at [**osf.io/vedb4**](https://osf.io/vedb4)
 
@@ -140,6 +142,8 @@ Vani, P.\*, **Alzahawi, S.**, Dannals, J., & Halevy, N. *Strategic Mindsets and 
 Hartmann, H.\*, Liu, M.\*, Elsherif, M.\*, **Alzahawi, S.\***, Aldoh, A.\*, Azevedo, F.\*, & Leech, G. *Replications & Reversals in Social Sciences*.
 
 - Conference of the Association for Interdisciplinary Metaresearch and Open Science (aimos) \hfill 2021
+
+\newpage
 
 **Alzahawi, S.\*** *Writing Reproducible Manuscripts in R*. [`r fa("globe", fill = "#035AA6")`](https://shilaan.rbind.io/talks/reporting/)   
 
@@ -201,21 +205,20 @@ Showcase Symposium (top 10%), Academy of Management \hfill 2019
 Dave Mans and Jim Willenborg Fellowship Fund \hfill 2019  
 Kaneko/Lainovic International Fellowship Fund \hfill 2019  
 Stanford Graduate School of Business Fellowship \hfill 2018  
-<!-- # Fellowships, honors, awards (continued) -->
 Best Case Award, EFMD Global Case Writing Competition \hfill 2018  
 Highest Honors, Rotterdam School of Management \hfill 2017  
 Prins Bernhard Cultuurfonds Research Fund \hfill 2017  
 Stichting Vreedefonds Research Fund \hfill 2017  
+
+# Fellowships, honors, awards (continued)
+
 Erasmus Happiness Economics Thesis Fund \hfill 2016  
 Certificate of Recognition, Erasmus University Rotterdam \hfill 2014 
 
 # Academic service, volunteering, consulting
 
 Tutorial Reviewer, Advances in Methods and Practices in Psychological Science (AMPPS) \hfill 2022-present  
-Open Science Ambassador, Center for Open Science \hfill 2022-present
-
-# Academic service, volunteering, consulting (continued)
-
+Open Science Ambassador, Center for Open Science \hfill 2022-present  
 Reproduction and Replication Analyst, DARPA-SCORE, Center for Open Science \hfill 2022-present  
 Co-organizer, Stanford GSB-PhD Alumni Conference \hfill 2022  
 Transform to Open Science (TOPS) Curriculum Development Team Lead, NASA \hfill 2022  
