@@ -192,6 +192,18 @@ Qualitative Research I: Interviews, Erasmus University College \hfill Winter 201
 Highlights of Sociology, Erasmus University College \hfill Winter 2014  
 Introduction to Psychology, Erasmus University College \hfill Fall 2014  
 
+# Academic service, volunteering, consulting
+
+Tutorial Reviewer, Advances in Methods and Practices in Psychological Science (AMPPS) \hfill 2022-present  
+Open Science Ambassador, Center for Open Science \hfill 2022-present  
+Reproduction and Replication Analyst, DARPA-SCORE, Center for Open Science \hfill 2022-present  
+Co-organizer, Stanford GSB-PhD Alumni Conference \hfill 2022  
+Transform to Open Science (TOPS) Curriculum Development Team Lead, NASA \hfill 2022  
+Executive Committee Member (Ex Officio), Society for the Improvement of Psychological Science \hfill 2022  
+Affiliate, Stanford Center for Open and Reproducible Science \hfill 2020-present 
+
+\newpage
+
 # Fellowships, honors, awards
 
 Stanford Data Science Scholarship \hfill 2022-2024  
@@ -204,9 +216,6 @@ Open Science Innovator Award, Stanford Center for Open and Reproducible Science 
 Dataquest & AI Inclusive Data Science Scholarship \hfill 2020  
 Jonsson Family Fellowship Fund \hfill 2020  
 Showcase Symposium (top 10%), Academy of Management \hfill 2019  
-
-# Fellowships, honors, awards (continued)
-
 Dave Mans and Jim Willenborg Fellowship Fund \hfill 2019  
 Kaneko/Lainovic International Fellowship Fund \hfill 2019  
 Stanford Graduate School of Business Fellowship \hfill 2018  
@@ -216,16 +225,6 @@ Prins Bernhard Cultuurfonds Research Fund \hfill 2017
 Stichting Vreedefonds Research Fund \hfill 2017  
 Erasmus Happiness Economics Thesis Fund \hfill 2016  
 Certificate of Recognition, Erasmus University Rotterdam \hfill 2014 
-
-# Academic service, volunteering, consulting
-
-Tutorial Reviewer, Advances in Methods and Practices in Psychological Science (AMPPS) \hfill 2022-present  
-Open Science Ambassador, Center for Open Science \hfill 2022-present  
-Reproduction and Replication Analyst, DARPA-SCORE, Center for Open Science \hfill 2022-present  
-Co-organizer, Stanford GSB-PhD Alumni Conference \hfill 2022  
-Transform to Open Science (TOPS) Curriculum Development Team Lead, NASA \hfill 2022  
-Executive Committee Member (Ex Officio), Society for the Improvement of Psychological Science \hfill 2022  
-Affiliate, Stanford Center for Open and Reproducible Science \hfill 2020-present  
 
 # Professional memberships
 
