@@ -78,9 +78,11 @@ Leadership; Person perception; Prediction errors; Team science; Crowd science; S
 
 # Papers under review or revision
 
-Yang, X., Schulz, J., Schmidt, K, ... **Alzahawi, S.**, ... Large-scale Cross-societal Examination of Real- and Minimal-group Biases. Revise and Resubmit at *Nature Human Behavior*. 
+Yang, X., Schulz, J., Schmidt, K, ... **Alzahawi, S.**, ... Large-Scale Cross-Societal Examination of Real- and Minimal-Group Biases. Revise and Resubmit at *Nature Human Behavior*. 
 
 Tierney, W., Cyrus-Lai, W., ... **Alzahawi, S.**, ... Uhlmann, E.L. Who Respects an Angry Woman? A Preregistered Re-examination of the Relationships between Gender, Emotion Expression, and Status Conferral. Under Review at *Organizational Behavior and Human Decision Processes*.
+
+Korbmacher, M., Azevedo, F., Pennington, C.R., Hartmann, H., Pownall, M., Schmidt, K., Elsherif, M.M., Breznau, N., Robertson, O., Kalandadze, T., Yu, S., Baker, B., O'Mahony, A., Olsnes, J.Ø., Shaw, J.J., Gjoneska, B., Yamada, Y., Röer, J.P., Murphy, J., **Alzahawi, S.**, ... <!--Grinschgl, S., Oliveira, C.M., Wingen, T., Yeung, S.K., Liu, M., König, L.M., Albayrak-Aydemir, N., Lecuona, O., Micheli, L., Evans, T.R.--> What Has Been Learned from the Replication Crisis? Towards Structural, Procedural, and Community Change. Under Review at *Communications Psychology*. 
 
 Pownall, M., Azevedo, F., König, L.M., Slack, H.R., Evans, T., Flack, Z., Grinschgl, S., Elsherif, M., Gilligan-Lee, K., Oliveria, C.M., Gjoneska, B., Kanadadze, T., Button, K., Ashcroft-Jones, S., Terry, J., Albayrak-Aydemir, N., Valentine, Z., Děchtěrenko, F., **Alzahawi, S.**, ... Does Open and Reproducible Scholarship Influence Students’ Scientific Literacy, Engagement, and Attitudes Towards Science? A Critical Review. Under Review at *Royal Society Open Science*.
 
@@ -137,13 +139,13 @@ Vani, P.\*, **Alzahawi, S.**, Dannals, J., & Halevy, N. *Strategic Mindsets and 
 
 <!-- \newpage -->
 
-<!-- ## Talks (continued) -->
+# Presentations (continued)
+
+## Talks (continued)
 
 Hartmann, H.\*, Liu, M.\*, Elsherif, M.\*, **Alzahawi, S.\***, Aldoh, A.\*, Azevedo, F.\*, & Leech, G. *Replications & Reversals in Social Sciences*.
 
 - Conference of the Association for Interdisciplinary Metaresearch and Open Science (aimos) \hfill 2021
-
-\newpage
 
 **Alzahawi, S.\*** *Writing Reproducible Manuscripts in R*. [`r fa("globe", fill = "#035AA6")`](https://shilaan.rbind.io/talks/reporting/)   
 
@@ -202,6 +204,9 @@ Open Science Innovator Award, Stanford Center for Open and Reproducible Science 
 Dataquest & AI Inclusive Data Science Scholarship \hfill 2020  
 Jonsson Family Fellowship Fund \hfill 2020  
 Showcase Symposium (top 10%), Academy of Management \hfill 2019  
+
+# Fellowships, honors, awards (continued)
+
 Dave Mans and Jim Willenborg Fellowship Fund \hfill 2019  
 Kaneko/Lainovic International Fellowship Fund \hfill 2019  
 Stanford Graduate School of Business Fellowship \hfill 2018  
@@ -209,9 +214,6 @@ Best Case Award, EFMD Global Case Writing Competition \hfill 2018
 Highest Honors, Rotterdam School of Management \hfill 2017  
 Prins Bernhard Cultuurfonds Research Fund \hfill 2017  
 Stichting Vreedefonds Research Fund \hfill 2017  
-
-# Fellowships, honors, awards (continued)
-
 Erasmus Happiness Economics Thesis Fund \hfill 2016  
 Certificate of Recognition, Erasmus University Rotterdam \hfill 2014 
 
