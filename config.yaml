@@ -5,7 +5,7 @@ theme: "starter-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Shilaan Alzahawi # Website name
-baseurl: 'https://shilaan.com' # Website URL
+baseurl: 'https://shilaan.rbind.io' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################

@@ -22,36 +22,24 @@
 
 [[redirects]]
   from = "https://shilaan.netlify.app/*"
-  to = "https://www.shilaan.com/:splat"
+  to = "https://shilaan.rbind.io/:splat"
   status = 301
   force = true
   
-  [[redirects]]
+[[redirects]]
   from = "https://shilaan.rbind.io/*"
-  to = "https://www.shilaan.com/:splat"
-  status = 301
-  force = true
-  
-[[redirects]]
-  from = "http://shilaan.com/*"
-  to = "https://www.shilaan.com/:splat"
-  status = 301
-  force = true
-  
-[[redirects]]
-  from = "https://shilaan.com/*"
-  to = "https://www.shilaan.com/:splat"
-  status = 301
-  force = true
-  
-  [[redirects]]
-  from = "http://shilaan.rbind.io/*"
-  to = "https://www.shilaan.com/:splat"
+  to = "https://shilaan.rbind.io/:splat"
   status = 301
   force = true
   
 [[redirects]]
   from = "http://shilaan.netlify.app/*"
-  to = "https://www.shilaan.com/:splat"
+  to = "https://shilaan.rbind.io/:splat"
+  status = 301
+  force = true
+  
+[[redirects]]
+  from = "http://shilaan.rbind.io/*"
+  to = "https://shilaan.rbind.io/:splat"
   status = 301
   force = true
