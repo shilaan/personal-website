@@ -38,6 +38,12 @@
   status = 301
   force = true
   
+[[redirects]]
+  from = "https://shilaan.com/*"
+  to = "https://www.shilaan.com/:splat"
+  status = 301
+  force = true
+  
   [[redirects]]
   from = "http://shilaan.rbind.io/*"
   to = "https://www.shilaan.com/:splat"
