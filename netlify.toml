@@ -27,12 +27,6 @@
   force = true
   
 [[redirects]]
-  from = "https://shilaan.rbind.io/*"
-  to = "https://shilaan.rbind.io/:splat"
-  status = 301
-  force = true
-  
-[[redirects]]
   from = "http://shilaan.netlify.app/*"
   to = "https://shilaan.rbind.io/:splat"
   status = 301
