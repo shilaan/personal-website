@@ -71,8 +71,6 @@ I'm a Master student in [**Statistical Science**](https://studiekiezer.ugent.be/
 
 I'm interested in Organizational Behavior, with a special interest in Leadership and Managing Groups and Teams. In addition to my substantive work in Organizational Behavior, I'm interested in meta-science and methods. My favorite letter in the alphabet is <i class="fab fa-r-project" aria-hidden="true" style="color:#035AA6"></i>, and I am weirdly evangelical about it. In my free time, I enjoy deadlifting, hiking, and taking board games much too seriously. 
 
-I'm always looking for ways to contribute to large-scale efforts that aim to improve the rigor and reproducibility of (behavioral) science. For example, I'm an Affiliate at the [**Stanford Data Science Center for Open and Reproducible Science**](https://datascience.stanford.edu/cores) (SDS-CORES); a reproduction and replication analyst with the [**Center for Open Science DARPA-SCORE**](https://www.cos.io/score) project; and an ex-officio member of the [**Executive Board**](https://improvingpsych.org/board/) of [**SIPS**](https://improvingpsych.org) (The Society for the Improvement of Psychological Science). I was also involved as a mentor at the [**NASA TOPS (Transform to Open Science) Mission**](https://science.nasa.gov/open-science/transform-to-open-science), where I led a team of subject-matter experts in developing a curriculum on Open Science Tools and Resources.  
-
 <center> 
 
 #### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "cv/alzahawi.pdf" "newtab" >}}Download my CV{{< /staticref >}}
