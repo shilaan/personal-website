@@ -59,9 +59,9 @@ social:
 #   icon_pack: fab
 #   link: https://www.instagram.com/shilaan01/ 
 # Link to a PDF of your resume/CV.
-# - icon: cv
-#   icon_pack: ai
-#   link: cv/shilaan.pdf
+- icon: cv
+  icon_pack: ai
+  link: cv/alzahawi.pdf
 superuser: yes
 bio: My research interests include leadership, team science, and open science
 greeting: alzahawi::shilaan()
