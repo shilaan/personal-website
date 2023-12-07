@@ -52,9 +52,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/shilaan
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/shilaanalzahawi/
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/shilaanalzahawi/
 # - icon: instagram
 #   icon_pack: fab
 #   link: https://www.instagram.com/shilaan01/ 
