@@ -50,6 +50,8 @@ authors:
 
 ### Talk presented at  
 <i class="fa fa-check" aria-hidden="true" style="color:#035AA6"></i> 
+Stanford Data Science  
+<i class="fa fa-check" aria-hidden="true" style="color:#035AA6"></i> 
 The Meta- Research Innovation Center at Stanford (METRICS)  
 <i class="fa fa-check" aria-hidden="true" style="color:#035AA6"></i> The Toronto Workshop on Reproducibility  
 <i class="fa fa-check" aria-hidden="true" style="color:#035AA6"></i> Society for Social and Personality Psychology (SPSP) Annual Conference  
