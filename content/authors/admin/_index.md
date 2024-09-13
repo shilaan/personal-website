@@ -7,7 +7,7 @@ education:
     year: Expected 2025
   - course: MSc in Statistical Science
     institution: Ghent University
-    year: Expected 2024
+    year: 2024
   - course: MSc in Business Administration
     institution: Rotterdam School of Management
     year: 2017
@@ -67,9 +67,9 @@ bio: My research interests include leadership, team science, and open science
 greeting: alzahawi::shilaan()
 ---
 
-I'm a PhD candidate in [**Organizational Behavior**](https://www.gsb.stanford.edu/programs/phd/fields/organizational-behavior) at the Stanford Graduate School of Business, a Master student in [**Statistical Science**](https://studiekiezer.ugent.be/master-of-science-in-statistical-data-analysis-en/2021) at Ghent University, and a [**Stanford Data Science Scholar**](https://datascience.stanford.edu/programs/stanford-data-science-scholars-program). Stanford Data Science Scholars are early-career researchers from all parts of the University who are using and developing data science methods in their research.  
+I'm a PhD candidate in [**Organizational Behavior**](https://www.gsb.stanford.edu/programs/phd/fields/organizational-behavior) at the Stanford Graduate School of Business and a [**Stanford Data Science Scholar**](https://datascience.stanford.edu/programs/stanford-data-science-scholars-program). Stanford Data Science Scholars are early-career researchers from all parts of the University who are using and developing data science methods in their research.  
 
-I'm interested in Organizational Behavior, with a special interest in Leadership and Managing Groups and Teams. In addition to my substantive work in Organizational Behavior, I'm interested in meta-science and methods. My favorite letter in the alphabet is <i class="fab fa-r-project" aria-hidden="true" style="color:#035AA6"></i>, and I am weirdly evangelical about it. In my free time, I enjoy deadlifting, hiking, and taking board games much too seriously. 
+I'm interested in Organizational Behavior, with a special interest in Leadership and Managing Groups and Teams. In addition to my substantive work in Organizational Behavior, I'm interested in meta-science and methods. My favorite letter in the alphabet is <i class="fab fa-r-project" aria-hidden="true" style="color:#035AA6"></i>, and I am weirdly evangelical about it. In my free time, I enjoy hot yoga, deadlifting, hiking, and taking board games much too seriously. 
 
 <center> 
 
