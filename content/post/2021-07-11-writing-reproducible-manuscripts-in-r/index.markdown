@@ -24,11 +24,13 @@ projects: []
 
 ## Motivation
 
-I recently gave a talk on writing reproducible manuscripts using R Markdown and the R package [*papaja*](https://github.com/crsh/papaja) (*p*reparing *apa j*ournal *a*rticles). One of my main motivations for using R to write up my manuscripts is contained in this tweet by [Pamela Jacobsen](https://twitter.com/pamelacjacobsen?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1394207042462785539%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=http%3A%2F%2Flocalhost%3A4321%2Fpost%2Fwriting-reproducible-manuscripts-in-r%2F): 
+I recently gave a talk on writing reproducible manuscripts using R Markdown and the R package [*papaja*](https://github.com/crsh/papaja) (*p*reparing *apa j*ournal *a*rticles). One of my main motivations for using R to write up my manuscripts is contained in a tweet by Pamela Jacobsen: 
 
 <center>
 
-{{< tweet user="pamelacjacobsen" id="1394207042462785539" >}}
+Why does so much of academia involve cutting and pasting information from one document to another document?
+
+*Pamela Jacobsen (May 17, 2021)*
 
 </center>
 
