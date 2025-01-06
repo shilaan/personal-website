@@ -25,7 +25,7 @@ interests:
 - Managing Groups and Teams
 - Team and Crowd Science 
 - Open Science
-# - Statistical Inference
+- Statistical Inference
 organizations:
 - name: Stanford University
   url: https://datascience.stanford.edu/people/shilaan-alzahawi

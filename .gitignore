@@ -9,3 +9,4 @@ Thumbs.db
 /public/
 /resources/
 static/cv/archive
+.hugo_build.lock
