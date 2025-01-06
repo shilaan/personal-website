@@ -1,6 +1,7 @@
 [build]
   command = "hugo --gc --minify -b $URL"
   publish = "public"
+  ignoreErrors = ["error-remote-getjson"]
 
 [build.environment]
   HUGO_VERSION = "0.83.1"
