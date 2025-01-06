@@ -28,7 +28,7 @@ I recently gave a talk on writing reproducible manuscripts using R Markdown and 
 
 <center>
 
-{{< tweet 1394207042462785539 >}}
+{{< tweet user="pamelacjacobsen" id="1394207042462785539" >}}
 
 </center>
 
