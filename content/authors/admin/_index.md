@@ -67,7 +67,7 @@ bio: My research interests include leadership, team science, and open science
 greeting: alzahawi::shilaan()
 ---
 
-I'm an incoming [**Assistant Professor of Management**](https://mays.tamu.edu/departments/management/) in the Mays Business School at Texas A&M University. Prior to my academic appointment at Mays, I was a PhD Candidate in [**Organizational Behavior**](https://www.gsb.stanford.edu/programs/phd/fields/organizational-behavior) at the Stanford Graduate School of Business and a [**Data Science Scholar**](https://datascience.stanford.edu/programs/stanford-data-science-scholars-program) at Stanford Data Science. 
+I'm an [**Assistant Professor of Management**](https://mays.tamu.edu/departments/management/) in the Mays Business School at Texas A&M University. Prior to my academic appointment at Mays, I was a PhD Candidate in [**Organizational Behavior**](https://www.gsb.stanford.edu/programs/phd/fields/organizational-behavior) at the Stanford Graduate School of Business and a [**Data Science Scholar**](https://datascience.stanford.edu/programs/stanford-data-science-scholars-program) at Stanford Data Science. 
 
 I'm interested in Organizational Behavior, with a special interest in Leadership and Managing Groups and Teams. In addition to my substantive work in Organizational Behavior, I'm interested in meta-science and research methods. My favorite letter in the alphabet is <i class="fab fa-r-project" aria-hidden="true" style="color:#035AA6"></i>, and I am weirdly evangelical about it. In my free time, I enjoy hot yoga, deadlifting, hiking, and taking board games much too seriously. 
 
