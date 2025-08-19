@@ -17,7 +17,7 @@ education:
   - course: LLB in Law
     institution: Erasmus School of Law
     year: 2014
-email: shilaan@stanford.edu
+email: shilaan@tamu.edu
 highlight_name: no
 interests:
 - Organizational Behavior 
@@ -28,12 +28,12 @@ interests:
 - Statistical Inference
 organizations:
 - name: Texas A&M University, Mays Business School
-  url: https://datascience.stanford.edu/people/shilaan-alzahawi
+  url: https://mays.tamu.edu/directory/shilaan-alzahawi/
 role: Assistant Professor of Management
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:shilaan@stanford.edu 
+  link: mailto:shilaan@tamu.edu 
 - display:
     header: yes
   icon: twitter
