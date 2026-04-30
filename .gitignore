@@ -10,3 +10,4 @@ Thumbs.db
 /resources/
 static/cv/archive
 .hugo_build.lock
+.positai
